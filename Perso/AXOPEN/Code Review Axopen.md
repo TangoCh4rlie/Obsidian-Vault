@@ -8,3 +8,4 @@
 - Char et pas varchar
 
 lalala j fais ds modifs
+encore des modifs
