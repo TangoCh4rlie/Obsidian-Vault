@@ -1,0 +1,1 @@
+```:%s/(truc a remplacer)/(par quoi))/``` d pour toute la ligne
