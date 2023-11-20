@@ -24,8 +24,15 @@
 ### db.sql
 - Char et pas varchar
 - email trop court
-- password trop court
+- password trop court il ne permet pas de sotcker de mot de pass hasher
 - champ email verification inutile puisque vérifié avant (sinon ajouter une contrainte Check)
+- pas de clé primaire pour user par exemple une colonne id pour pourvoir autoincréementer cette valeur
+- (optionnel) il n'y a pas de champ nom pour permettre d'identifier facilement utilisateur
+- pas de check si la valeur de fin est supérieur a celle de début (pour la cohérence) (Check SQL)
+- aucune relation entre les deux tables il est donc difficile par exemple de savoir quels user est sur quel chantier
+- passer le type de description en TEXT 
+- potientiellement passer en mediumint mais pour seulement un gain de 1 octet :)
+  pour sur passer en UNSIGNED INT
 ### générales
 - ne pas push le fichier .env sur le repo distant
 - création de la base de donnée avec un orm pour avoir une meilleur adaptabilité et une meilleure réutilisabilité du projet
