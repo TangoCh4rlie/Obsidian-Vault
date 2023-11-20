@@ -17,7 +17,6 @@
 - uiliser un post et non pas un put pour la création d'un chantier
 ### helpers/user.js (4)
 
-- Pas de requête préparé
 - pas de hash du mot de passe le mdp est donc stocké en clair dans la bdd
 - pas e gestion d'erreur
 - utilisation du like comme on connais exactment le contenu des chaines que l'on comprare on peu utiliser un like pour minimisr les risques de résultats inatndu
@@ -56,4 +55,5 @@
 - la connexion a la base de données n'est jamais fermée après les requête pour libérer les ressources, mais dans le cas d'une petite API dans ce cas ce n'est pas forcément utile
 - pas de test
 - pas de doc
+- Pas de requête préparé
 
