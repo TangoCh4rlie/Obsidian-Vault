@@ -23,6 +23,9 @@
 - Simplifier au maximum les endpoint, faire des appels de fonctions aux nom explicite pour clarifier et simplifier le code pour tendre vers un endpoint comme le ```/session/signin``` et non pas comme le ```/session/signup```
 ### db.sql
 - Char et pas varchar
+- email trop court
+- password trop court
+- champ email verification inutile puisque vérifié avant (sinon ajouter une contrainte Check)
 ### générales
 - ne pas push le fichier .env sur le repo distant
 - création de la base de donnée avec un orm pour avoir une meilleur adaptabilité et une meilleure réutilisabilité du projet
