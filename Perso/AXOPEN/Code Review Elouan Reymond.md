@@ -7,10 +7,10 @@ Voici le compte rendu de la revue de code que j'ai fais sur le projet [node.js](
 #### [helpers/chantier.js](#####helpers/chantier.js) 7 remarques
 #### [routes/chantier.js](#####routes/chantier.js) 4 remarques
 #### [helpers/user.js](#####helpers/user.js) 4 remarques
-#### [token-utils.js](##### token-utils.js) 5 remarques
-#### [random-utils.js](##### random-utils.js) 2 remarques
-#### [index.js](##### index.js) 6 remarques
-#### [db.sql](##### db.sql) 10 remarques
+#### [token-utils.js](#####token-utils.js) 5 remarques
+#### [random-utils.js](#####random-utils.js) 2 remarques
+#### [index.js](#####index.js) 6 remarques
+#### [db.sql](#####db.sql) 10 remarques
 #### [générales](##### générales)
 
 <br/>
@@ -65,4 +65,8 @@ Voici le compte rendu de la revue de code que j'ai fais sur le projet [node.js](
 - L'endpoint ``/session/signup`` n'est pas en ``async`` ce qui peut être bloquant.
 - La variable c dans ``/session/signup`` est inutile puisqu'elle n'est jamais transmise à aucune fonction (elle transmise mais la fonction ``createUser`` n'utilise pas cette variable). Le code est donc complexifié et cela n'apporte rien.
 - On pourrait simplifier un maximum les endpoints pour qu'il n'y ai que des appels à des fonction ce qui permettrai de simplifier et de rendre le code plus lisible pour un programmeur arrivant sur le projet.
-- Les codes de retour ne sont pas explicite (seulement des 500). Il faudrait faire une gestion d'erreur avec différents code de retour en fonction des erreurs retournés.
+- Les codes de retour ne sont pas explicite (seulement des 500). Il faudrait faire une gestion d'erreur avec différents code de retour en fonction des erreurs retournés. L'erreur 500 indique seulement une erreur coté serveur mais n'apporte aucune précision sur la nature de celle ci. Alors que 
+
+##### db.sql
+
+- 
