@@ -111,7 +111,12 @@ def hauteur(noeud):
 ```python
 def minimum(noeud) -> int:
 	if noeud == None:
-		break
+		return INFINITY
 	else:
-		min(noeud, min(minimum(noeud.fg), minimum(noeud.fd)))
+		min(minimum(noeud.fg), minimum(noeud.fd), noeud.val)
+```
+
+```python
+def feuille(noeud):
+	if noeud.fg
 ```
