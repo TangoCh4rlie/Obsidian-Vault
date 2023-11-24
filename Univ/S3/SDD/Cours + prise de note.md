@@ -66,14 +66,52 @@ def recherche (noeud, val) -> Bool:
 		recherche(noeud.filsDroit, val) 
 ```
 
-```python
-def inverse (noeud) -> Bool:
+``` python 
+def inverse (noeud) -> :
 	if (noeud == none):
-		return false
-	if (noeud.fg == none and noeud.fd != none)
+		return
+	if (noeud.fg == none and noeud.fd != none):
 		return inverse(noeud.fd)
-	if (noeud.fg != none and noeud.fd == none)
+	if (noeud.fg != none and noeud.fd == none):
 		return inverse(noeud.fg)
 	if (noeud.fg != none and noeud.fd != none):
+		swap(noeud.fg, noeud.fd)
 		return (inverse(noeud.fg) and inverse(noeud.fd))
+
+
+
+
+def inverse (noeuf):
+	if noeud.fg != None or noeud.fd != None:
+		swap(noeud.fg, noued.fd)
+		inverse(noeud.fd)
+		inverse(noeud.fg)
+
+
+```
+
+```python
+def hauteur (noeud, taille) -> int:
+	if (noeud == none):
+		return hauteur
+	taille += 1;
+	hauteur(noeud.fg, taille)
+	hauteur(noeud.fd, taille)
+
+
+def hauteur(noeud):
+	if noeud == None:
+		return -1
+	else:
+	return 1 + max(hauteur(fg), hauteur(fd))
+
+```
+
+
+```python
+def minimum(noeud) -> int:
+	if noeud == None:
+		break
+	else:
+		min(noeud, min(minimum(noeud.fg), minimum(noeud.fd)))
 ```
