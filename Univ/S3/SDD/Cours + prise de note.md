@@ -107,7 +107,6 @@ def hauteur(noeud):
 
 ```
 
-
 ```python
 def minimum(noeud) -> int:
 	if noeud == None:
@@ -120,3 +119,4 @@ def minimum(noeud) -> int:
 def feuille(noeud):
 	if noeud.fg
 ```
+
