@@ -117,6 +117,11 @@ def minimum(noeud) -> int:
 
 ```python
 def feuille(noeud):
-	if noeud.fg
+	if noeud.fd == None and noeud.fg == None
+		self.remove(noeud)
+	if noeud.fd != None:
+		feuille(noeud.fd)
+	if noeud.fg != None:
+		feuille(noeud.fg)
 ```
 
