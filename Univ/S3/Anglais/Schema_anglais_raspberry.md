@@ -12,7 +12,7 @@ Control panel ^OhqvGmMk
 
 Our datas ^ijzgnawt
 
-Meteo france datas ^hDPZh6s2
+OpenWeather datas ^hDPZh6s2
 
 Temperature
 Humidity
@@ -283,8 +283,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1269623725,
+			"version": 143,
+			"versionNonce": 1252658883,
 			"isDeleted": false,
 			"id": "hDPZh6s2",
 			"fillStyle": "solid",
@@ -297,24 +297,24 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"y": -137.65625,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 363.203857421875,
+			"width": 350.6398620605469,
 			"height": 45,
 			"seed": 1255959738,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701155692640,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "Meteo france datas",
-			"rawText": "Meteo france datas",
+			"text": "OpenWeather datas",
+			"rawText": "OpenWeather datas",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Meteo france datas",
+			"originalText": "OpenWeather datas",
 			"lineHeight": 1.25,
 			"baseline": 32
 		},
@@ -2628,43 +2628,6 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					129.96729670393313
 				]
 			]
-		},
-		{
-			"id": "7vXWVzxy",
-			"type": "text",
-			"x": 351.61976846448897,
-			"y": -468.7690058682873,
-			"width": 14,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 506231843,
-			"version": 20,
-			"versionNonce": 1038008493,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700584302133,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 25,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2682,10 +2645,10 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 609.7716593096219,
-		"scrollY": 1239.6229263270363,
+		"scrollX": 160.81654448754998,
+		"scrollY": 417.35792339226157,
 		"zoom": {
-			"value": 0.5223461238853633
+			"value": 1.5272662836851376
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
