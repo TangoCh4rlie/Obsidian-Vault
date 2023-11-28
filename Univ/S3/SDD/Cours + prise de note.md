@@ -116,12 +116,12 @@ def minimum(noeud) -> int:
 ```
 
 ```python
-def feuille(noeud):
-	if noeud.fd == None and noeud.fg == None
-		self.remove(noeud)
+def del_feuille(noeud):
+	if noeud.fd == None and noeud.fg == None:
+		del noeud
 	if noeud.fd != None:
 		feuille(noeud.fd)
-	if noeud.fg != None:
+	else:
 		feuille(noeud.fg)
 ```
 
