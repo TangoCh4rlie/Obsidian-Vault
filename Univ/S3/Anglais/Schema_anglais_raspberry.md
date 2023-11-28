@@ -92,6 +92,11 @@ are displayed
 depending on the 
 weather ^4dzyu6Us
 
+Apache Server
+
+Used to host the website on the
+raspberry pi ^wGGpZY2Z
+
 
 # Embedded files
 0e84b6e1937f2e61aff65d049f066891ddf8730e: [[Pasted Image 20231121090927_726.png]]
@@ -109,8 +114,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 294,
-			"versionNonce": 808790989,
+			"version": 298,
+			"versionNonce": 2058351779,
 			"isDeleted": false,
 			"id": "BIp_ALYNkRfRcJjkWS2mW",
 			"fillStyle": "solid",
@@ -143,16 +148,20 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				{
 					"id": "5aBC77Axdsakjix-w1vZm",
 					"type": "arrow"
+				},
+				{
+					"id": "IYm5LntinpNe1eZWCTtK_",
+					"type": "arrow"
 				}
 			],
-			"updated": 1700555963306,
+			"updated": 1701157991044,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 292,
-			"versionNonce": 923337453,
+			"version": 293,
+			"versionNonce": 1342733,
 			"isDeleted": false,
 			"id": "xqdwBcZ4ubfcaUOM1diiD",
 			"fillStyle": "solid",
@@ -174,14 +183,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 253,
-			"versionNonce": 1546563171,
+			"version": 254,
+			"versionNonce": 390555203,
 			"isDeleted": false,
 			"id": "FpuJe-HjjzvdZ2Qm1_Nzw",
 			"fillStyle": "solid",
@@ -203,14 +212,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1176771917,
+			"version": 154,
+			"versionNonce": 1878741869,
 			"isDeleted": false,
 			"id": "OhqvGmMk",
 			"fillStyle": "solid",
@@ -230,7 +239,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false,
 			"fontSize": 37.4025720370812,
@@ -246,8 +255,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 867232259,
+			"version": 93,
+			"versionNonce": 514303459,
 			"isDeleted": false,
 			"id": "ijzgnawt",
 			"fillStyle": "solid",
@@ -267,7 +276,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -283,8 +292,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 1252658883,
+			"version": 144,
+			"versionNonce": 1031298509,
 			"isDeleted": false,
 			"id": "hDPZh6s2",
 			"fillStyle": "solid",
@@ -304,7 +313,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701155692640,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -320,8 +329,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 162,
-			"versionNonce": 1118482851,
+			"version": 163,
+			"versionNonce": 991883651,
 			"isDeleted": false,
 			"id": "63VGEXTKen3naiHRHh6a2",
 			"fillStyle": "solid",
@@ -343,7 +352,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529781,
+			"updated": 1701157986301,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -364,8 +373,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 152,
-			"versionNonce": 399306253,
+			"version": 153,
+			"versionNonce": 1067785261,
 			"isDeleted": false,
 			"id": "3aRaLTj38OLI4GhKCLeR0",
 			"fillStyle": "solid",
@@ -387,7 +396,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -408,8 +417,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1246397763,
+			"version": 171,
+			"versionNonce": 1307298083,
 			"isDeleted": false,
 			"id": "SQX8lUGO",
 			"fillStyle": "solid",
@@ -429,7 +438,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -445,8 +454,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 232,
-			"versionNonce": 964535405,
+			"version": 233,
+			"versionNonce": 778768013,
 			"isDeleted": false,
 			"id": "LIXAxkgx",
 			"fillStyle": "solid",
@@ -466,7 +475,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -482,8 +491,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 158,
-			"versionNonce": 1643046115,
+			"version": 159,
+			"versionNonce": 209497283,
 			"isDeleted": false,
 			"id": "loWrEAZoRAOGueHxOFueu",
 			"fillStyle": "solid",
@@ -505,14 +514,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 612929229,
+			"version": 93,
+			"versionNonce": 142849261,
 			"isDeleted": false,
 			"id": "sXXNGCti",
 			"fillStyle": "solid",
@@ -532,7 +541,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -548,8 +557,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 166,
-			"versionNonce": 824594563,
+			"version": 167,
+			"versionNonce": 2054167651,
 			"isDeleted": false,
 			"id": "v_Sno0TItiskY3gdOjA_a",
 			"fillStyle": "solid",
@@ -571,7 +580,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -596,8 +605,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 161,
-			"versionNonce": 394734893,
+			"version": 162,
+			"versionNonce": 964202317,
 			"isDeleted": false,
 			"id": "bmq-11hS12RSx-TR9NpsL",
 			"fillStyle": "solid",
@@ -619,14 +628,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 1773094947,
+			"version": 259,
+			"versionNonce": 596940803,
 			"isDeleted": false,
 			"id": "McZdN70v",
 			"fillStyle": "solid",
@@ -646,7 +655,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -662,8 +671,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1105395597,
+			"version": 251,
+			"versionNonce": 2141396397,
 			"isDeleted": false,
 			"id": "eu9v51H9LQuq6E3DPRUUT",
 			"fillStyle": "solid",
@@ -690,14 +699,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					"type": "arrow"
 				}
 			],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 245,
-			"versionNonce": 24660931,
+			"version": 246,
+			"versionNonce": 367566755,
 			"isDeleted": false,
 			"id": "oTsUb_48lTM3f_P2uVCUj",
 			"fillStyle": "solid",
@@ -719,14 +728,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 177,
-			"versionNonce": 701859309,
+			"version": 178,
+			"versionNonce": 304930829,
 			"isDeleted": false,
 			"id": "rEQSViwF5rosxpR29jUL5",
 			"fillStyle": "solid",
@@ -748,7 +757,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -769,8 +778,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 173,
-			"versionNonce": 748673891,
+			"version": 174,
+			"versionNonce": 463123267,
 			"isDeleted": false,
 			"id": "Ud2FnTrKbb4aHi58Fgnr9",
 			"fillStyle": "solid",
@@ -792,7 +801,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -813,8 +822,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 185,
-			"versionNonce": 1382563917,
+			"version": 186,
+			"versionNonce": 118445677,
 			"isDeleted": false,
 			"id": "gajawb7taTqwq7iUAtvdQ",
 			"fillStyle": "solid",
@@ -836,7 +845,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -857,8 +866,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 175,
-			"versionNonce": 393508611,
+			"version": 176,
+			"versionNonce": 889803491,
 			"isDeleted": false,
 			"id": "FAax5rD9JHXI7l6LBaVJh",
 			"fillStyle": "solid",
@@ -880,7 +889,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -901,8 +910,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 189,
-			"versionNonce": 561295021,
+			"version": 190,
+			"versionNonce": 2031354061,
 			"isDeleted": false,
 			"id": "HT-3eZh36uIgyAfSphMeJ",
 			"fillStyle": "solid",
@@ -924,7 +933,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -945,8 +954,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 183,
-			"versionNonce": 1618255523,
+			"version": 184,
+			"versionNonce": 1388510851,
 			"isDeleted": false,
 			"id": "lJGmxYRawwcTZCgRn7Bce",
 			"fillStyle": "solid",
@@ -968,7 +977,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -989,8 +998,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 189,
-			"versionNonce": 94654733,
+			"version": 190,
+			"versionNonce": 1842634541,
 			"isDeleted": false,
 			"id": "V8mOkOmhQBPZVxm-yLEfh",
 			"fillStyle": "solid",
@@ -1012,7 +1021,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1033,8 +1042,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "line",
-			"version": 181,
-			"versionNonce": 1380897347,
+			"version": 182,
+			"versionNonce": 1334195747,
 			"isDeleted": false,
 			"id": "XOSk_tR4uWdl0gSLQwyO2",
 			"fillStyle": "solid",
@@ -1056,7 +1065,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529782,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1077,8 +1086,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 258,
-			"versionNonce": 1550886765,
+			"version": 259,
+			"versionNonce": 2075783565,
 			"isDeleted": false,
 			"id": "0e0FIOShvJV1G44Voh9wZ",
 			"fillStyle": "solid",
@@ -1100,14 +1109,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986302,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 352,
-			"versionNonce": 1575064035,
+			"version": 353,
+			"versionNonce": 708934083,
 			"isDeleted": false,
 			"id": "95qyPw0j",
 			"fillStyle": "hachure",
@@ -1127,7 +1136,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1139,8 +1148,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 404959693,
+			"version": 251,
+			"versionNonce": 805189613,
 			"isDeleted": false,
 			"id": "jjiMhHLXhZmz-R1oFhj4d",
 			"fillStyle": "solid",
@@ -1162,14 +1171,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 272,
-			"versionNonce": 1413176707,
+			"version": 273,
+			"versionNonce": 1263971,
 			"isDeleted": false,
 			"id": "Z2IRlohc",
 			"fillStyle": "hachure",
@@ -1189,7 +1198,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1201,8 +1210,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 166,
-			"versionNonce": 634744877,
+			"version": 167,
+			"versionNonce": 883601997,
 			"isDeleted": false,
 			"id": "u28h24VG-7C8PBpFMkCJ2",
 			"fillStyle": "solid",
@@ -1224,14 +1233,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 347,
-			"versionNonce": 1620751651,
+			"version": 348,
+			"versionNonce": 1179264259,
 			"isDeleted": false,
 			"id": "GnR3ZMcc0S4UU8iQB18D5",
 			"fillStyle": "solid",
@@ -1251,7 +1260,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1263,8 +1272,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 326165133,
+			"version": 326,
+			"versionNonce": 915988653,
 			"isDeleted": false,
 			"id": "3ox4wS5B",
 			"fillStyle": "solid",
@@ -1284,7 +1293,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1300,8 +1309,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1114511555,
+			"version": 165,
+			"versionNonce": 1147440291,
 			"isDeleted": false,
 			"id": "XxoPIszm",
 			"fillStyle": "solid",
@@ -1321,7 +1330,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1337,8 +1346,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1974405357,
+			"version": 156,
+			"versionNonce": 192037645,
 			"isDeleted": false,
 			"id": "u2d2FZ9h",
 			"fillStyle": "solid",
@@ -1358,7 +1367,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1374,8 +1383,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 1196689507,
+			"version": 180,
+			"versionNonce": 1309737027,
 			"isDeleted": false,
 			"id": "AJPOYS8g",
 			"fillStyle": "solid",
@@ -1395,7 +1404,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1411,8 +1420,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 236544845,
+			"version": 159,
+			"versionNonce": 397433197,
 			"isDeleted": false,
 			"id": "SLD970lJ",
 			"fillStyle": "solid",
@@ -1432,7 +1441,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1448,8 +1457,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 192,
-			"versionNonce": 85656579,
+			"version": 193,
+			"versionNonce": 1026424803,
 			"isDeleted": false,
 			"id": "f3jXyCee2u2ri-sy2bbs4",
 			"fillStyle": "solid",
@@ -1471,14 +1480,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 347,
-			"versionNonce": 822702509,
+			"version": 348,
+			"versionNonce": 1956422605,
 			"isDeleted": false,
 			"id": "ybHpZv2r",
 			"fillStyle": "hachure",
@@ -1498,7 +1507,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1510,8 +1519,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 1405193123,
+			"version": 132,
+			"versionNonce": 734661507,
 			"isDeleted": false,
 			"id": "Fkz4tyvn",
 			"fillStyle": "solid",
@@ -1531,7 +1540,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1547,8 +1556,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 1806218253,
+			"version": 178,
+			"versionNonce": 1448124973,
 			"isDeleted": false,
 			"id": "AompxKcF",
 			"fillStyle": "solid",
@@ -1568,7 +1577,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1584,8 +1593,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 490,
-			"versionNonce": 799283565,
+			"version": 491,
+			"versionNonce": 1847829283,
 			"isDeleted": false,
 			"id": "50_cTq1OBS5ukFD1RqWMt",
 			"fillStyle": "solid",
@@ -1607,7 +1616,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555533082,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1636,8 +1645,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 205,
-			"versionNonce": 1777379949,
+			"version": 206,
+			"versionNonce": 834000013,
 			"isDeleted": false,
 			"id": "u3rtY3QJzlNxJt1x3NpGO",
 			"fillStyle": "solid",
@@ -1668,14 +1677,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					"type": "arrow"
 				}
 			],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 184,
-			"versionNonce": 1788296931,
+			"version": 185,
+			"versionNonce": 1286162115,
 			"isDeleted": false,
 			"id": "T2TcpgCF",
 			"fillStyle": "solid",
@@ -1695,7 +1704,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1711,8 +1720,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 295,
-			"versionNonce": 480957645,
+			"version": 296,
+			"versionNonce": 579189485,
 			"isDeleted": false,
 			"id": "IVcSeY70",
 			"fillStyle": "solid",
@@ -1732,7 +1741,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529783,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1748,8 +1757,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 222,
-			"versionNonce": 2008246915,
+			"version": 223,
+			"versionNonce": 2113500771,
 			"isDeleted": false,
 			"id": "md-TjIVpdBbEyG81Lux9t",
 			"fillStyle": "solid",
@@ -1776,14 +1785,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					"type": "arrow"
 				}
 			],
-			"updated": 1700555529784,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 163,
-			"versionNonce": 527479597,
+			"version": 164,
+			"versionNonce": 290051405,
 			"isDeleted": false,
 			"id": "wS7OFM1A",
 			"fillStyle": "solid",
@@ -1803,7 +1812,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986303,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1819,8 +1828,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 372,
-			"versionNonce": 1401496099,
+			"version": 373,
+			"versionNonce": 1625469443,
 			"isDeleted": false,
 			"id": "xBZIkTFieiGBRN_3IsRja",
 			"fillStyle": "solid",
@@ -1847,14 +1856,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					"type": "arrow"
 				}
 			],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1588315533,
+			"version": 154,
+			"versionNonce": 425436077,
 			"isDeleted": false,
 			"id": "ApxFQx3M",
 			"fillStyle": "solid",
@@ -1874,7 +1883,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1890,8 +1899,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 395,
-			"versionNonce": 117892547,
+			"version": 396,
+			"versionNonce": 1986230691,
 			"isDeleted": false,
 			"id": "yIfYWMB2tGVJT9uUNeW-A",
 			"fillStyle": "solid",
@@ -1913,7 +1922,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1942,8 +1951,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 269,
-			"versionNonce": 2106952685,
+			"version": 270,
+			"versionNonce": 786736653,
 			"isDeleted": false,
 			"id": "G1RF6iwrztsz01IYVM-6T",
 			"fillStyle": "solid",
@@ -1965,7 +1974,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1990,8 +1999,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 413,
-			"versionNonce": 2034972003,
+			"version": 414,
+			"versionNonce": 464145731,
 			"isDeleted": false,
 			"id": "KYZyced74kcPmiLbF8dI8",
 			"fillStyle": "solid",
@@ -2013,14 +2022,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 352,
-			"versionNonce": 2084013645,
+			"version": 353,
+			"versionNonce": 81681517,
 			"isDeleted": false,
 			"id": "RQ6AOQdt",
 			"fillStyle": "solid",
@@ -2040,7 +2049,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2056,8 +2065,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 698650883,
+			"version": 394,
+			"versionNonce": 68529379,
 			"isDeleted": false,
 			"id": "bnKcnFIK9MvM9en1hkx5v",
 			"fillStyle": "solid",
@@ -2079,14 +2088,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 493565101,
+			"version": 342,
+			"versionNonce": 856835789,
 			"isDeleted": false,
 			"id": "yv82UfBA",
 			"fillStyle": "solid",
@@ -2106,7 +2115,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2122,8 +2131,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 348,
-			"versionNonce": 697399459,
+			"version": 349,
+			"versionNonce": 1932793987,
 			"isDeleted": false,
 			"id": "jMhjq3ZKR-w7b0U32Hdy0",
 			"fillStyle": "solid",
@@ -2150,14 +2159,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					"type": "arrow"
 				}
 			],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 360,
-			"versionNonce": 215619341,
+			"version": 361,
+			"versionNonce": 471459117,
 			"isDeleted": false,
 			"id": "bFLwAWSn",
 			"fillStyle": "solid",
@@ -2177,7 +2186,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555529784,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2193,8 +2202,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 974,
-			"versionNonce": 1414816301,
+			"version": 975,
+			"versionNonce": 918818851,
 			"isDeleted": false,
 			"id": "27fv_cQXKVrQHkSzL-tjE",
 			"fillStyle": "solid",
@@ -2216,7 +2225,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555533082,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2245,8 +2254,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 96,
-			"versionNonce": 1172938477,
+			"version": 97,
+			"versionNonce": 324974477,
 			"isDeleted": false,
 			"id": "fE8U9gsQ44DB97g6INkGc",
 			"fillStyle": "solid",
@@ -2268,14 +2277,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555552103,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 1407083501,
+			"version": 179,
+			"versionNonce": 1622414275,
 			"isDeleted": false,
 			"id": "nS3ZtPVs",
 			"fillStyle": "solid",
@@ -2295,7 +2304,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555597637,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2311,8 +2320,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 149,
-			"versionNonce": 1412303235,
+			"version": 150,
+			"versionNonce": 1125793261,
 			"isDeleted": false,
 			"id": "QdxCjWvgmCSx91j01H-kh",
 			"fillStyle": "solid",
@@ -2334,14 +2343,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555604917,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 34,
-			"versionNonce": 1672489197,
+			"version": 35,
+			"versionNonce": 1092789091,
 			"isDeleted": false,
 			"id": "s4ywRdhw",
 			"fillStyle": "solid",
@@ -2361,7 +2370,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555619216,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2377,8 +2386,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 626456365,
+			"version": 99,
+			"versionNonce": 1381365837,
 			"isDeleted": false,
 			"id": "cus79LlR",
 			"fillStyle": "solid",
@@ -2398,7 +2407,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555648732,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2414,8 +2423,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 216,
-			"versionNonce": 1926621581,
+			"version": 217,
+			"versionNonce": 543047427,
 			"isDeleted": false,
 			"id": "U9GBBYaxTtNjQQE5ttW8H",
 			"fillStyle": "solid",
@@ -2437,14 +2446,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555732434,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 754518531,
+			"version": 163,
+			"versionNonce": 1256941229,
 			"isDeleted": false,
 			"id": "sD1JxujM",
 			"fillStyle": "solid",
@@ -2464,7 +2473,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555802362,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2480,8 +2489,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "rectangle",
-			"version": 78,
-			"versionNonce": 938856195,
+			"version": 79,
+			"versionNonce": 954558115,
 			"isDeleted": false,
 			"id": "ts8MA6B4rB9nP1FrJkYY-",
 			"fillStyle": "solid",
@@ -2503,14 +2512,14 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1700555958090,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 1568091309,
+			"version": 10,
+			"versionNonce": 1065617677,
 			"isDeleted": false,
 			"id": "KtJwf7jQ",
 			"fillStyle": "solid",
@@ -2530,7 +2539,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555825999,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2546,8 +2555,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 99591107,
+			"version": 93,
+			"versionNonce": 1902549571,
 			"isDeleted": false,
 			"id": "4dzyu6Us",
 			"fillStyle": "solid",
@@ -2567,7 +2576,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700555952899,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2583,8 +2592,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		},
 		{
 			"type": "arrow",
-			"version": 52,
-			"versionNonce": 496511533,
+			"version": 53,
+			"versionNonce": 832135021,
 			"isDeleted": false,
 			"id": "5aBC77Axdsakjix-w1vZm",
 			"fillStyle": "solid",
@@ -2606,7 +2615,7 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700555964538,
+			"updated": 1701157986304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2628,6 +2637,218 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 					129.96729670393313
 				]
 			]
+		},
+		{
+			"id": "Ot9iZybSFl3Zik1pSkJjr",
+			"type": "rectangle",
+			"x": -1081.7278960117737,
+			"y": -748.315517828376,
+			"width": 535.3515625,
+			"height": 210.478515625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"7CwoLCHgNqw86SxcTiYDQ"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1532066307,
+			"version": 256,
+			"versionNonce": 691667875,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "IYm5LntinpNe1eZWCTtK_",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701158005774,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "wGGpZY2Z",
+			"type": "text",
+			"x": -1045.0384428867737,
+			"y": -714.438564703376,
+			"width": 459.7318115234375,
+			"height": 140,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"7CwoLCHgNqw86SxcTiYDQ"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 285400291,
+			"version": 329,
+			"versionNonce": 1163846275,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701158005774,
+			"link": null,
+			"locked": false,
+			"text": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
+			"rawText": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 130,
+			"containerId": null,
+			"originalText": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "IYm5LntinpNe1eZWCTtK_",
+			"type": "arrow",
+			"x": -358.2860286622958,
+			"y": -283.12020532837596,
+			"width": 185.14108609947795,
+			"height": 258.78692852376525,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1672780429,
+			"version": 419,
+			"versionNonce": 642889443,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701158005774,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-185.14108609947795,
+					-258.78692852376525
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "BIp_ALYNkRfRcJjkWS2mW",
+				"focus": -0.3579936323121047,
+				"gap": 3.655768624228358
+			},
+			"endBinding": {
+				"elementId": "Ot9iZybSFl3Zik1pSkJjr",
+				"focus": -0.5780360616991799,
+				"gap": 2.94921875
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "9NmAQV-yS-1Hf5quDhLDx",
+			"type": "arrow",
+			"x": -234.85289601177374,
+			"y": -288.60848657837596,
+			"width": 152.099609375,
+			"height": 125.41015625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 578440557,
+			"version": 15,
+			"versionNonce": 1442915715,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1701157986305,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-152.099609375,
+					-125.41015625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "BIp_ALYNkRfRcJjkWS2mW",
+				"focus": 0.016356726570970984,
+				"gap": 9.144049874228358
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "tNFaukIk",
+			"type": "text",
+			"x": -371.16148976177374,
+			"y": -547.944424078376,
+			"width": 14,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 349353795,
+			"version": 2,
+			"versionNonce": 665238733,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1701157998497,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2645,10 +2866,10 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 160.81654448754998,
-		"scrollY": 417.35792339226157,
+		"scrollX": 1866.1614897617737,
+		"scrollY": 1247.436611578376,
 		"zoom": {
-			"value": 1.5272662836851376
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
