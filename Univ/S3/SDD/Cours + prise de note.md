@@ -118,7 +118,7 @@ def minimum(noeud) -> int:
 ```python
 def del_feuille(noeud):
 	if noeud.fd == None and noeud.fg == None:
-		del noeud
+		del noeu
 	if noeud.fd != None:
 		feuille(noeud.fd)
 	else:
