@@ -1,0 +1,1 @@
+`signal()`déclenche un handler
