@@ -7,6 +7,10 @@ dans le site
 
 
 FAIRE UNE NOTE D'INTENTION
+	- Objectifs du porte folio
+	- Choix technique
+	- Reflexion sur le concept
+	- Maquettes
 
 ## page de présentation
 - page d'accueil (simple épuré)
