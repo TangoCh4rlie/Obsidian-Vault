@@ -4,7 +4,7 @@
 
 Centres d'intérêt : informatique, sport, musique
 
-Technologies favorites : Framework web (**React**, Svelte), languages bas niveau (C...)
+Technologies favorites : Framework web (**React**, Svelte), python (pour les api FastAPI, quelque essais de Django) languages bas niveau (C...)
 Intéressé en ce moment par :
 - le C# et ses frameworks
-- le developpement continu
+- l'integration continu et la distribution continu 
