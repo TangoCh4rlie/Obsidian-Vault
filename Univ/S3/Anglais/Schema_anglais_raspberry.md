@@ -99,7 +99,6 @@ raspberry pi ^wGGpZY2Z
 
 
 # Embedded files
-0e84b6e1937f2e61aff65d049f066891ddf8730e: [[Pasted Image 20231121090927_726.png]]
 ec6c44bd88c0fb3b3b0f870a6411c464d5699c50: https://paintingvalley.com/drawings/cloud-drawing-29.png
 068793c3802404ff83ad35dd919ce6ad1ba17473: http://clipartmag.com/image/water-drop-drawing-36.png
 b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur-libre/p2/582381-flocon-de-neige-icone-illustrationle-gratuit-vectoriel.jpg
@@ -1236,39 +1235,6 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"updated": 1701157986303,
 			"link": null,
 			"locked": false
-		},
-		{
-			"type": "image",
-			"version": 348,
-			"versionNonce": 1179264259,
-			"isDeleted": false,
-			"id": "GnR3ZMcc0S4UU8iQB18D5",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 786.2673815429166,
-			"y": -49.84275795640724,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 163.17939700757873,
-			"height": 133.02668234313484,
-			"seed": 914608102,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1701157986303,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "0e84b6e1937f2e61aff65d049f066891ddf8730e",
-			"scale": [
-				1,
-				1
-			]
 		},
 		{
 			"type": "text",
@@ -2639,20 +2605,24 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			]
 		},
 		{
-			"id": "Ot9iZybSFl3Zik1pSkJjr",
 			"type": "rectangle",
-			"x": -1081.7278960117737,
-			"y": -748.315517828376,
-			"width": 535.3515625,
-			"height": 210.478515625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 256,
+			"versionNonce": 691667875,
+			"isDeleted": false,
+			"id": "Ot9iZybSFl3Zik1pSkJjr",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1081.7278960117737,
+			"y": -748.315517828376,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 535.3515625,
+			"height": 210.478515625,
+			"seed": 1532066307,
 			"groupIds": [
 				"7CwoLCHgNqw86SxcTiYDQ"
 			],
@@ -2660,10 +2630,6 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1532066307,
-			"version": 256,
-			"versionNonce": 691667875,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "IYm5LntinpNe1eZWCTtK_",
@@ -2675,83 +2641,72 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 			"locked": false
 		},
 		{
-			"id": "wGGpZY2Z",
 			"type": "text",
-			"x": -1045.0384428867737,
-			"y": -714.438564703376,
-			"width": 459.7318115234375,
-			"height": 140,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 329,
+			"versionNonce": 1163846275,
+			"isDeleted": false,
+			"id": "wGGpZY2Z",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1045.0384428867737,
+			"y": -714.438564703376,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 459.7318115234375,
+			"height": 140,
+			"seed": 285400291,
 			"groupIds": [
 				"7CwoLCHgNqw86SxcTiYDQ"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 285400291,
-			"version": 329,
-			"versionNonce": 1163846275,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1701158005774,
 			"link": null,
 			"locked": false,
-			"text": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
-			"rawText": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
+			"rawText": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 130,
 			"containerId": null,
 			"originalText": "Apache Server\n\nUsed to host the website on the\nraspberry pi",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 130
 		},
 		{
-			"id": "IYm5LntinpNe1eZWCTtK_",
 			"type": "arrow",
-			"x": -358.2860286622958,
-			"y": -283.12020532837596,
-			"width": 185.14108609947795,
-			"height": 258.78692852376525,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 419,
+			"versionNonce": 642889443,
+			"isDeleted": false,
+			"id": "IYm5LntinpNe1eZWCTtK_",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -358.2860286622958,
+			"y": -283.12020532837596,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 185.14108609947795,
+			"height": 258.78692852376525,
+			"seed": 1672780429,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1672780429,
-			"version": 419,
-			"versionNonce": 642889443,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1701158005774,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-185.14108609947795,
-					-258.78692852376525
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "BIp_ALYNkRfRcJjkWS2mW",
 				"focus": -0.3579936323121047,
@@ -2762,93 +2717,52 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 				"focus": -0.5780360616991799,
 				"gap": 2.94921875
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "9NmAQV-yS-1Hf5quDhLDx",
-			"type": "arrow",
-			"x": -234.85289601177374,
-			"y": -288.60848657837596,
-			"width": 152.099609375,
-			"height": 125.41015625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 578440557,
-			"version": 15,
-			"versionNonce": 1442915715,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1701157986305,
-			"link": null,
-			"locked": false,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					-152.099609375,
-					-125.41015625
+					-185.14108609947795,
+					-258.78692852376525
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "BIp_ALYNkRfRcJjkWS2mW",
-				"focus": 0.016356726570970984,
-				"gap": 9.144049874228358
-			},
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "tNFaukIk",
-			"type": "text",
-			"x": -371.16148976177374,
-			"y": -547.944424078376,
-			"width": 14,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"type": "image",
+			"version": 349,
+			"versionNonce": 861312446,
+			"isDeleted": true,
+			"id": "GnR3ZMcc0S4UU8iQB18D5",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 786.2673815429166,
+			"y": -49.84275795640724,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 163.17939700757873,
+			"height": 133.02668234313484,
+			"seed": 914608102,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 349353795,
-			"version": 2,
-			"versionNonce": 665238733,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1701157998497,
+			"boundElements": [],
+			"updated": 1701416318778,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 25,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "0e84b6e1937f2e61aff65d049f066891ddf8730e",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -2866,8 +2780,8 @@ b0d0f493ccb5109a6c6239b26fd5d5564393302d: https://static.vecteezy.com/ti/vecteur
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1866.1614897617737,
-		"scrollY": 1247.436611578376,
+		"scrollX": 1278.619307083452,
+		"scrollY": 1072.436611578376,
 		"zoom": {
 			"value": 0.4
 		},
