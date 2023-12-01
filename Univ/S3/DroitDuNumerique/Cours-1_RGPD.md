@@ -27,3 +27,6 @@ Ce que dit la CNIL
 2) Puis en base intermédiaire (données moins utilisé = restriction des droits d'accès)
 
 RGPD Article 13 (**SUPER IMPORTANT**)
+#### Territorialité
+S'applique sur le territoire européen
+Mais si les app non européenes sont utilisé par des pays europé en elles doivent respecter ce reglement si elles veulent pouvoir distribuer leur app en europe
