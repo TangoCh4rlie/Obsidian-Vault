@@ -9,3 +9,21 @@
 - *Accompagner la conformité et conseiller*
 - *Anticiper et innover*
 - *Contrôler et sanctionner*
+
+### Responsabilité du RT
+Concepts fondamentaux
+1) *Licéité, loyauté et transparence*
+2) *Limitation de la finalité*
+3) *Minimisation des données*
+4) *Précision*
+5) *Limitation de conservation*
+6) *Confidentialité, intégrité, disponibilité*
+
+###### Privacy by Design
+###### Privacy by Default
+
+Ce que dit la CNIL
+1) Conservation en base active (données d'utilisations courante)
+2) Puis en base intermédiaire (données moins utilisé = restriction des droits d'accès)
+
+RGPD Article 13 (**SUPER IMPORTANT**)
