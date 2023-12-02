@@ -10,6 +10,8 @@ Intéressé en ce moment par :
 - l'integration continu et la distribution continu
 - docker et kubernetes 
 
+Skills en communication aime le contact social
+
 
 Projets API Serrata (explication du site),
 Projet futurs
