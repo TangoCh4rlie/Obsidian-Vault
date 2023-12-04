@@ -1,6 +1,7 @@
 - [ ] Envoyer la convention de stage à Claire de AXOPEN (voir avec Mme Debouté)
-- [ ] Finir le peuplement de la base de donnée SAE
+- [x] Finir le peuplement de la base de donnée SAE
 - [ ] Faire des courses
 - [ ] Compléter le Trello
 - [ ] PSR
 - [ ] Faire une distrib perso de linux avec Alpine
+- [ ] Compléter les test pour l'ensemble des endpoint (API SAE)
