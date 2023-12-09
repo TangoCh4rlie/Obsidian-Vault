@@ -19,3 +19,6 @@ def rechercher(abr,val)
 			else:
 				temp = temp.fd
 		return False
+```
+
+Demander les autres algos sur le groupe de la classe
