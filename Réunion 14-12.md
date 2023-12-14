@@ -3,7 +3,7 @@ le gymnase colette besson sera t-il disponible pour la nuit??
 plus vers les **336** attendu
 revoir avec axel les equipes a payer
 equipe 49 à supprimer
-Quesceketuveux pour les lots
+Quesceketuveux pour les lots (places de ciné)
 
 
 
