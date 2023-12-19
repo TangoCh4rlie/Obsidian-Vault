@@ -10,7 +10,7 @@ Ce portfolio a été élaboré dans le but de mettre en lumière les compétence
 
 **Choix technologique :**
 
-J'ai décidé de me tourner vers un framework javascript pour faire le frontend du site. Ce dernier se nomme Angular, je l'ai choisit puisque je vais être amené à l'utiliser lors de mon stage en entreprise. Je pense donc que le choix du framework est pertinent et me permettra d'acquérir des compétences. Je n'aurai pas de backend puisque le site sera seulement visuel donc pas besoin de partie serveur.
+J'ai décidé de me tourner vers un framework javascript pour faire le frontend du site. Ce dernier se nomme **Angular ou React**, je l'ai choisit puisque je vais être amené à l'utiliser lors de mon stage en entreprise. Je pense donc que le choix du framework est pertinent et me permettra d'acquérir des compétences. Je n'aurai pas de backend puisque le site sera seulement visuel donc pas besoin de partie serveur.
 
 Le choix d'utiliser un language de programmation au lieu d'utiliser un CMS me semble pertinent puisque mon stage de fin de deuxième année sera dans une entreprise ou mon travail sera celui d'un développeur full-stack.
 
