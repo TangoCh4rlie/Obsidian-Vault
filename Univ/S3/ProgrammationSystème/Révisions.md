@@ -58,6 +58,10 @@ write
 wait
 fork ^eIAE8xqK
 
+FORK()
+Pere > 0
+Fils = 0 ^GlEFupo7
+
 %%
 # Drawing
 ```json
@@ -888,12 +892,49 @@ fork ^eIAE8xqK
 			"containerId": null,
 			"originalText": "APPEL SYSTEM\n\npipe\nexecvp\ndup\nread\nwrite\nwait\nfork",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "GlEFupo7",
+			"type": "text",
+			"x": -288.8984375,
+			"y": -512.8125,
+			"width": 87.15994262695312,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1816472608,
+			"version": 64,
+			"versionNonce": 1348800544,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1702978577349,
+			"link": null,
+			"locked": false,
+			"text": "FORK()\nPere > 0\nFils = 0",
+			"rawText": "FORK()\nPere > 0\nFils = 0",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "FORK()\nPere > 0\nFils = 0",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -905,8 +946,8 @@ fork ^eIAE8xqK
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 110.5,
-		"scrollY": 247.296875,
+		"scrollX": 593.5,
+		"scrollY": 950.296875,
 		"zoom": {
 			"value": 1
 		},
