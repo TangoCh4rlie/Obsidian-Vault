@@ -1,4 +1,4 @@
-- [ ] Envoyer la convention de stage à Claire de AXOPEN (voir avec Mme Debouté)
+- [x] Envoyer la convention de stage à Claire de AXOPEN (voir avec Mme Debouté)
 - [x] Finir le peuplement de la base de donnée SAE
 - [ ] Faire des courses
 - [ ] Compléter le Trello
