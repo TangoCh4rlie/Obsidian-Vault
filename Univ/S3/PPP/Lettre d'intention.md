@@ -3,9 +3,9 @@ Ce portfolio a été élaboré dans le but de mettre en lumière les compétence
 **Objectifs :**
 
 1. **Mise en Valeur de Mes Compétences :** Mon portfolio a pour objectif de démontrer de manière concise et visuelle les compétences que j'ai acquises, notamment dans les domaines tels que le web, le réseau ou bien la création de logiciels de gestions. Vous y trouverez des exemples concrets de projets académiques, de stages, et d'autres réalisations qui attestent de ma capacité à appliquer mes connaissances de manière pratique.
-    
+
 2. **Orientation Professionnelle :** En présentant ce portfolio, je souhaite également partager mes aspirations professionnelles et mes objectifs de carrière. Les expériences que j'ai accumulées jusqu'à présent ont façonné mes choix et renforcé ma détermination à contribuer de manière significative dans le domaine de l'informatique
-    
+
 3. **Démonstration de Ma Polyvalence :** Mon portfolio reflète ma polyvalence en mettant en évidence ma capacité à m'adapter à des situations variées et à travailler aussi bien en équipe que de manière autonome. Ces compétences, je suis convaincu, seront des atouts précieux dans le contexte professionnel.
 
 **Choix technologique :**
@@ -20,3 +20,9 @@ L'aspect visuel du site sera plutôt simple et minimaliste. Dès la page d'accue
 
 **Conception /réflexion /maquettes :**
 
+![[Screenshot 2023-12-19 at 15.43.59.png]]
+
+**Planification de l’avancée du portfolio jusqu’au début du S4 :**
+
+Création d'une maquette pedant les vacances de noel
+Elaboration du site dès le retour des vacances
