@@ -8,6 +8,6 @@
 - [ ] Mettre le TP de messagerie sur github
 - [ ] Prologin
 - [ ] faire un interpreteur
-- [ ] 
+- [ ] verifier la convention de stage sur elipse
 
 ffmpeg
