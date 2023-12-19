@@ -16,4 +16,7 @@ Le choix d'utiliser un language de programmation au lieu d'utiliser un CMS me se
 
 **Choix d'ergonomie/design/ambiance :**
 
+L'aspect visuel du site sera plutôt simple et minimaliste. Dès la page d'accueil, un design minimaliste accueille les visiteurs avec une image évocatrice, symbolisant l'essence de mes compétences. Une palette de couleurs modernes, axé sur des teintes sobres, crée une atmosphère professionnelle et met en avant mes réalisations. Le site sera constitué que d'une seule page. La typographie choisie, claire et lisible, ajoute une touche contemporaine sans compromettre la lisibilité. Un formulaire de contact discret permet aux visiteurs et potentiels collaborateurs de me contacter aisément, renforçant ainsi la convivialité de l'interface. En résumé, ce site épuré incarne la philosophie "moins, c'est plus".
+
+**Conception /réflexion /maquettes :**
 
