@@ -62,6 +62,8 @@ FORK()
 Pere > 0
 Fils = 0 ^GlEFupo7
 
+x=0 i=0 ^hwRWdLeI
+
 %%
 # Drawing
 ```json
@@ -929,12 +931,49 @@ Fils = 0 ^GlEFupo7
 			"containerId": null,
 			"originalText": "FORK()\nPere > 0\nFils = 0",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "hwRWdLeI",
+			"type": "text",
+			"x": -218.5,
+			"y": -785.703125,
+			"width": 77.81996154785156,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 273777696,
+			"version": 9,
+			"versionNonce": 754740704,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1702978930952,
+			"link": null,
+			"locked": false,
+			"text": "x=0 i=0",
+			"rawText": "x=0 i=0",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "x=0 i=0",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
