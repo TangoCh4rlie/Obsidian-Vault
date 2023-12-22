@@ -22,7 +22,7 @@ L'aspect visuel du site sera plutôt simple et minimaliste. Dès la page d'accue
 
 **Conception /réflexion /maquettes :**
 
-![[MaquetteImage.png]]
+Voir pièce jointe pour la maquette
 
 **Planification de l’avancée du portfolio jusqu’au début du S4 :**
 
