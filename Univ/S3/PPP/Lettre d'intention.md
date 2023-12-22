@@ -1,3 +1,5 @@
+# Lettre d'intention
+
 Ce portfolio a été élaboré dans le but de mettre en lumière les compétences que j'ai développées tout au long de mon cursus académique, ainsi que celles acquises au cours de stages, projets et expériences diverses. Il se compose de différentes sections mettant en avant mes réalisations académiques, mes compétences techniques, mes expériences professionnelles, ainsi que mes engagements extra-scolaires et associatifs.
 
 **Objectifs :**
@@ -20,7 +22,7 @@ L'aspect visuel du site sera plutôt simple et minimaliste. Dès la page d'accue
 
 **Conception /réflexion /maquettes :**
 
-![[Screenshot 2023-12-19 at 15.43.59.png]]
+![[MaquetteImage.png]]
 
 **Planification de l’avancée du portfolio jusqu’au début du S4 :**
 
