@@ -9,5 +9,7 @@
 - [ ] Prologin
 - [ ] faire un interpreteur
 - [ ] verifier la convention de stage sur elipse
+- [ ] faire la config k8s
+- [ ] changer avax
 
 ffmpeg
