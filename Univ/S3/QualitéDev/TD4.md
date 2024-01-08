@@ -1,13 +1,23 @@
 Singleton
-private static Singleton singleton
+private static **volatile** Singleton singleton
 
 private Singleton() {
 	singleton = db connection
 }
 
-getInstance() {
+public static **synchronized** getInstance() {
 	if singleton == null {
 		singleton = new Stingleton()
 	} 
 		return singleton
 }
+
+interdir le clonage 
+
+protected Singleton clone() throws CloneNotSupportedException{
+	throw new CloneNotSupportedException();
+		return (Singleton) super clone()
+}
+
+### EXO
+[[EXO-TD4]]
