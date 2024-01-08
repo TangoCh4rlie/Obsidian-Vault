@@ -21,3 +21,10 @@ protected Singleton clone() throws CloneNotSupportedException{
 
 ### EXO
 [[EXO-TD4]]
+
+quand ya une modif originator.saf() et history.push() (dans le caretaker)
+
+**Organisator**
+enregistre 
+**ConcreteMemento**
+**Caretaker**
