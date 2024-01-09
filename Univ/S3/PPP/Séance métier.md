@@ -3,3 +3,6 @@
 3) AGED quelles sont les technos les plus demadées? => commentaires? (AGED)
 4) Evolution plus opportunité et menaces sur le métier du dev?
 5) Qu'avez-vous retenu de l'intervention de Faycal ESSALIFI
+
+
+Terraform opensource qui permet la gestion d'infra structure  d'entrerprise 
