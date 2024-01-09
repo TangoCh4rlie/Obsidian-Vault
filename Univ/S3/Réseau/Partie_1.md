@@ -1,10 +1,10 @@
 # 1) Notion préalables
-
+[[Univ/S3/Réseau/Ressources/révisions]]
 ### A quoi ca sert?
 
 ### Comment ca marche?
 
-Chaque port a un numérot et chaque port est associer a un service spécifique.
+Chaque port a un numéro et chaque port est associer a un service spécifique.
 
 ex : ftp port 21
 
