@@ -44,4 +44,4 @@ C'est le cas ou tout se passe bien
 
 Lors que les deux machines ne sont pas sur le même réseau par ce que le routeur arrête les broadcast (même IP dirigé). Pour remédier à ça il faut indiquer au routeur qu'il est relai DHCP pour qu'il laisse passer seulement les broadcast DHCP dirigé 
 
-#### [TD1](TD1_DHCP)
+#### [TD1](TD1_DHCP.md)

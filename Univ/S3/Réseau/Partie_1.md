@@ -202,4 +202,4 @@ Pour des questions de sécurité, on peut rajouter ces lignes (les ACL seront é
 
 monRouteur(config)#ip nat inside source list numéro ACL pool nom Pool monRouteur (config)#access-list numéro ACL permit IP source masque
 
-[Partie 2](Partie_2)
+[Partie 2](Partie_2.md)
