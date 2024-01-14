@@ -9,3 +9,8 @@
 - [ ] Réviser le SQL
 - [ ] Ouvrir les offres d'emploi pour le PPP
 - [ ] Avancer sur la qualité dev
+
+# Journée
+- [x] Droit
+- [ ] powerpoint
+- [ ] SQL
