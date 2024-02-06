@@ -3,4 +3,6 @@
 - [ ] build a drone
 - [ ] asm
 - [ ] linux
-- [ ] 
+- [ ] mistral
+- [ ] pipeline github
+- [ ] k8s
