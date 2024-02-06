@@ -1,0 +1,6 @@
+- [ ] virtualisation
+- [ ] docker
+- [ ] build a drone
+- [ ] asm
+- [ ] linux
+- [ ] 
