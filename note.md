@@ -3,4 +3,4 @@ description
 lieu
 photo
 gens
-tags
+[tags](https://flowbite-svelte.com/docs/components/badge)
