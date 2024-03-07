@@ -46,3 +46,23 @@ db.movielens_movies.aggregate([{$group:{_id:"_id", nbfilms:{$count:{}}}}])
 db.movielens_users.aggregate([{$group: {_id:null, "maxage":{$max:"$age"}}}])
 db.movielens_users.aggregate([{$group: {_id:null, "age":{$avg:"$age"}}}])
 ``
+
+### TD6
+
+``
+db.movielens_users.aggregate([{$match: {"gender":"F"}},{$group:{_id:"_id", nbF:{$count:{}}}}]])
+``
+
+## TP1
+``
+db.personne.find({}, {"_id": 1, "full_name": 1})
+db.personne.find({"personnal_adress.city":{$eq:'Selma'}}, {"_id": 0, "full_name": 1})
+db.personne.find({$and: [{'personal_address.city': {$eq: 'Trenton'}}, {'cv.positions.company_name': {$eq: 'Towers Watson'}}]}, {"_id": 0, "full_name": 1})
+db.personne.aggregate([{$group:{_id:null,nbpers:{$count:{}}}}])
+db.personne.aggregate([{$group:{_id:'_id',name:{$last:"$full_name"},agemax:{$max:"$age"}}, {$project:{"_id":0}}}])
+ne sert a rien au dessus
+db.personne.aggregate([{$match:{"personal_address.city":{$eq: "Ballard"}}},{$group:{_id:"_id",nbpers:{$count:{}}}}])
+db.personne.aggregate([{$group:{_id:"$age", nbconscrit:{$count:{}}}}])
+db.personne.aggregate([{$unwind:"$contact_pro"},{$group:{_id:"$_id",nbadr:{$count:{}}}}])
+db.personne.aggregate([{$unwind:"$cv"}, {$unwind:"$cv.positions"}, {$group:{_id:"$cv.positions.company_name", nbcol:{$count:{}}}}])
+``
