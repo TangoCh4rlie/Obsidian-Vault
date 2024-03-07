@@ -1,9 +1,17 @@
 - [ ] PSR
 - [ ] faire un interpreteur
 - [ ] Portfolio
-- [ ] Envoyer un message à la daronne d'Emi
 - [ ] K8S
 - [ ] AI local
+
+# Cours
+
+- [ ] Terminer le projet de mobile
+- [ ] Faire l'exposé de management
+- [ ] Réviser le DS de mongoDB
+- [ ] Faire l'exposé d'anglais
+- [ ] Faire le TP SupersymPanier
+- [ ] SAE
 
 ## Truc a lire / faire 
 https://gsap.com/
