@@ -6,13 +6,12 @@
 
 # Cours
 
-- [ ] Terminer le projet de mobile
 - [ ] Faire l'exposé de management
 - [ ] Réviser le DS de mongoDB
 - [ ] Faire l'exposé d'anglais
 - [ ] Faire le TP SupersymPanier
+- [ ] Terminer le projet de mobile
 - [ ] SAE
-- [ ] Repondre sur Indeed
 
 ## Truc a lire / faire 
 https://gsap.com/
