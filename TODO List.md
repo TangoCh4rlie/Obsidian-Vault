@@ -5,9 +5,6 @@
 - [ ] AI local
 
 # Cours
-
-- [ ] Faire l'exposé de management
-- [ ] Réviser le DS de mongoDB
 - [ ] Faire l'exposé d'anglais
 - [ ] Faire le TP SupersymPanier
 - [ ] Terminer le projet de mobile
