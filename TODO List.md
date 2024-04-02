@@ -10,14 +10,6 @@
 - [ ] Terminer le projet de mobile
 - [ ] SAE
 
-## Mardi
-- [ ] Kubernetes
-## Mercredi
-- [ ] Kubernetes si pas fini
-- [ ] Java (potentiellement si le temps)
-- [ ] Symfony (dans l'idéal)
-
-
 ## Truc a lire / faire 
 https://gsap.com/
 
