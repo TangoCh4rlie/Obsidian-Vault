@@ -24,3 +24,8 @@ rajouter des conditions
         }
     }
 }
+
+
+### Création de template  pour les index
+ca parmet d'avoir des index avec toujours la meme structure que l'on peut créer selon un paterne
+**ne pas oublier de cocher auto-create** sinon c'est trop chiant sa mère
