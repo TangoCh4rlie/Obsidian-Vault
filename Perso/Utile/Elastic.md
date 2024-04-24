@@ -29,3 +29,64 @@ rajouter des conditions
 ### Création de template  pour les index
 ca parmet d'avoir des index avec toujours la meme structure que l'on peut créer selon un paterne
 **ne pas oublier de cocher auto-create** sinon c'est trop chiant sa mère
+
+exemple:
+```
+PUT _index_template/my-log-template
+{
+  "template": {
+    "mappings": {
+      "properties": {
+        "accessType": {
+          "type": "text"
+        },
+        "userToken": {
+          "type": "text"
+        },
+        "accessDate": {
+          "type": "date"
+        },
+        "entityType": {
+          "type": "text"
+        },
+        "entityKey": {
+          "type": "text"
+        },
+        "comment": {
+          "type": "text"
+        },
+        "userEmail": {
+          "type": "text"
+        },
+        "userType": {
+          "type": "text"
+        },
+        "appSource": {
+          "eager_global_ordinals": false,
+          "index_phrases": false,
+          "fielddata": false,
+          "norms": true,
+          "index": true,
+          "store": false,
+          "type": "text",
+          "index_options": "positions"
+        },
+        "userName": {
+          "type": "text"
+        },
+        "appAccess": {
+          "type": "text"
+        },
+        "userId": {
+          "type": "long"
+        }
+      }
+    }
+  },
+  "index_patterns": [
+    "aux-log-*"
+  ],
+  "composed_of": [],
+  "allow_auto_create": true
+}
+```
