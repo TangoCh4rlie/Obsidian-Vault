@@ -1,6 +1,8 @@
 Installation de podman pour pouvoir lancer elastic et kibana
 Executer le script bash pour redéfinir le découpage de la mémoire
 
+**docker-compose.yml dans File**
+
 podman compose up
 
 localhost:5601 pour la visualisation des données avec kibana
@@ -14,6 +16,7 @@ POST -> http://localhost:9200/logs/_doc
 dans le body mettre les données
 
 récupérer des données
+```
 GET -> http://localhost:9200/_search
 POST -> http://localhost:9200/_search
 rajouter des conditions
@@ -24,6 +27,7 @@ rajouter des conditions
         }
     }
 }
+```
 
 
 ### Création de template  pour les index

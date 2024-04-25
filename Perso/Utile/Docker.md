@@ -14,8 +14,3 @@ Permet à partir d'un docker-compose.yml de lancer plusieurs image a la fois
 
 ### Rerun un docker de la liste docker ps -a 
 docker start -i <name>
-
-
-## docker compose
-
-possibilité d'ajouter des profiles pour décider quels services on veut executer
