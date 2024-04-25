@@ -35,6 +35,13 @@ exemple:
 PUT _index_template/my-log-template
 {
   "template": {
+	"settings": {
+      "index": {
+        "lifecycle": {
+          "name": "my-aux-log"
+        }
+      }
+    },
     "mappings": {
       "properties": {
         "accessType": {
@@ -81,6 +88,9 @@ PUT _index_template/my-log-template
           "type": "long"
         }
       }
+    },
+    "aliases": {
+      "aux-log": {}
     }
   },
   "index_patterns": [
@@ -90,3 +100,4 @@ PUT _index_template/my-log-template
   "allow_auto_create": true
 }
 ```
+`indices.lifecycle.poll_interval` ce champs permet de modifier l'intervalle de temps pour check les life cycle des index (passer de hot à warm à cold …)
