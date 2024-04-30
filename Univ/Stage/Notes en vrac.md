@@ -33,3 +33,6 @@ Cette semaine j’ai bien avancé sur la récupréation des log et aujourd’hui
 Cette semaine il y a eu un code2code qui était un quizz sur des question de code (c’était bien sympa) et la semaine dernière il y a eu un Axolab présenté par Antoine sur ChatGpt 3.5 qui était vraiment sympa
 
 Jeudi soir comme cétait le dernier jeudi du mois il y à eu un after work avec une petite retrospective du mois dernier et puis il y a eu un apéro ou j’ai pu en profiter pour discuter avec plein de monde.
+
+### Lundi 29/04
+J'ai commencé l'intégration mais le truc c'est que je suis bloqué entre guillimet par ce que j'ai besoin de spécifications techniques a propos des éléments a log :( comme j'ai qu'un seul projet a faire et pas d'autres tickets je sais pas trop quoi faire la.
