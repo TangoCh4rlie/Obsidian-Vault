@@ -1,3 +1,4 @@
+[springboot](SpringBoot)
 ### Utilisation de stream
 ``` java
 List<? extends Serializable> notNullValues = Stream.of(  
@@ -62,10 +63,3 @@ class StringArraySerializer extends JsonSerializer<String[]> {
 private String[] entityKey = null;
 
 ```
-
-# Spring Boot
-### Intercepter des requêtes avant qu'elles soient retournées
-implémenter l'interface ``HandleInterceptor`` 
-### Récupérer un objet avant qu'il soit retourné
-implémenter l'interface ``ResponseBodyAdvice``
-permet de manipuler l'objet avant de le retourner 

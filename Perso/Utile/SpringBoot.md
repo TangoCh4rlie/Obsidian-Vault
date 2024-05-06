@@ -1,3 +1,4 @@
+[Java](java)
 @Bean : Permet de faire de "l'injection de dépendance" pour par exemple créer une connexion avec une bd :
 
 ``` java
@@ -38,3 +39,9 @@ public class QueueClientConfig {
 }
 ```
 Le queue client est injecté directement dans les paramètres du constructeur de la classe
+
+### Intercepter des requêtes avant qu'elles soient retournées
+implémenter l'interface ``HandleInterceptor`` 
+### Récupérer un objet avant qu'il soit retourné
+implémenter l'interface ``ResponseBodyAdvice``
+permet de manipuler l'objet avant de le retourner 
