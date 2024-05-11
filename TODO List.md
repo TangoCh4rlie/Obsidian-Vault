@@ -9,11 +9,6 @@
 - [ ] Faire le TP SupersymPanier
 - [ ] Terminer le projet de mobile
 - [ ] SAE
-
-# Semaine prochaine
-- [ ] Présentation de ppp
-
-
 ## Truc a lire / faire 
 https://gsap.com/
 
