@@ -105,3 +105,5 @@ PUT _index_template/my-log-template
 }
 ```
 `indices.lifecycle.poll_interval` ce champs permet de modifier l'intervalle de temps pour check les life cycle des index (passer de hot à warm à cold …)
+
+**Si on veut faire de la data visualisation avec kibana sur des champs text il faut les passer en keyword**
