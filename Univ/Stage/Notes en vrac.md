@@ -36,3 +36,11 @@ Jeudi soir comme cétait le dernier jeudi du mois il y à eu un after work avec 
 
 ### Lundi 29/04
 J'ai commencé l'intégration mais le truc c'est que je suis bloqué entre guillimet par ce que j'ai besoin de spécifications techniques a propos des éléments a log :( comme j'ai qu'un seul projet a faire et pas d'autres tickets je sais pas trop quoi faire la.
+
+### Semaine du 29/04 au 10/05
+J'ai continué l'intégration de ma librairie mais petit à petit on s'est redu compte qu'il y avait pleins de petits points qu'on pouvait améliorer dans la lib. Ducoup c'était repartit pour remettre les mains dans le moteur. Finalement à la fin de la semaine dernière j'avais intégrer la lib à 4 projets (quelques vérifications sont encore a faire mais j'avance bien).
+![[Avancé_du_projet_10-05.png]]
+L'intégration à pas été facile sur les premier projet car j'ai du comprendre le coeur de métier qui est vraiment complexe, mais petit à petit l'intégration va de plus en plus vite.
+
+### Lundi 13/05
+J'ai commencé à faire des MR pour les différents projet sur lesquels j'ai implémenté la lib
