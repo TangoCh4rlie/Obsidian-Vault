@@ -43,4 +43,8 @@ J'ai continué l'intégration de ma librairie mais petit à petit on s'est redu 
 L'intégration à pas été facile sur les premier projet car j'ai du comprendre le coeur de métier qui est vraiment complexe, mais petit à petit l'intégration va de plus en plus vite.
 
 ### Lundi 13/05
-J'ai commencé à faire des MR pour les différents projet sur lesquels j'ai implémenté la lib
+J'ai commencé à faire des MR pour les différents projet sur lesquels j'ai implémenté la lib.
+J'ai commencé a faire des Dashboard sur kibana pour faire de la data visualisation. Ca va nous permettre de repérer rapidement des anomalies sur les applications comme un utilisateur qui récupère pleins de contrat d'autre client...
+### Mercredi 15/05
+J'ai encore fait des modifications sur la lib pour pouvoir gérer les cas problématique sur les GED. Je poursuit sur le déploiement en recette des applications.
+![[Avancé_du_projet_15-05.png]]
