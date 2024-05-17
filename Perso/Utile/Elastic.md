@@ -29,6 +29,30 @@ rajouter des conditions
 }
 ```
 
+```
+services:
+  elasticsearch:
+    image: elasticsearch:8.12.2
+    ports:
+      - 9200:9200/tcp
+      - 9300:9300/tcp
+    volumes:
+      - ./data:/usr/share/elasticsearch/data:rw
+    environment:
+      - xpack.security.enabled=false
+      - discovery.type=single-node
+      - http.cors.enabled=true
+      - http.cors.allow-origin="*"
+      - http.cors.allow-methods=OPTIONS,HEAD,GET,POST,PUT,DELETE
+      - http.cors.allow-headers=X-Requested-With,X-Auth-Token,Content-Type,Content-Length
+      - http.cors.allow-credentials=true
+  kibana:
+    image: kibana:8.12.2
+    ports:
+      - 5601:5601/tcp
+    depends_on:
+      - elasticsearch
+```
 
 ### Création de template  pour les index
 ca parmet d'avoir des index avec toujours la meme structure que l'on peut créer selon un paterne
@@ -36,74 +60,112 @@ ca parmet d'avoir des index avec toujours la meme structure que l'on peut créer
 
 exemple:
 ```
-PUT _index_template/my-log-template
-{
-  "template": {
-	"settings": {
-      "index": {
-        "lifecycle": {
-          "name": "my-aux-log"
-        }
-      }
-    },
-    "mappings": {
-      "properties": {
-        "accessType": {
-          "type": "text"
-        },
-        "userToken": {
-          "type": "text"
-        },
-        "accessDate": {
-          "type": "date"
-        },
-        "entityType": {
-          "type": "text"
-        },
-        "entityKey": {
-          "type": "text"
-        },
-        "comment": {
-          "type": "text"
-        },
-        "userEmail": {
-          "type": "text"
-        },
-        "userType": {
-          "type": "text"
-        },
-        "appSource": {
-          "eager_global_ordinals": false,
-          "index_phrases": false,
-          "fielddata": false,
-          "norms": true,
-          "index": true,
-          "store": false,
-          "type": "text",
-          "index_options": "positions"
-        },
-        "userName": {
-          "type": "text"
-        },
-        "appAccess": {
-          "type": "text"
-        },
-        "userId": {
-          "type": "long"
-        }
-      }
-    },
-    "aliases": {
-      "aux-log": {}
-    }
-  },
-  "index_patterns": [
-    "aux-log-*"
-  ],
-  "composed_of": [],
-  "allow_auto_create": true
+PUT _index_template/my-log-template  
+
+{  
+  "version": 1,  
+  "template": {  
+    "settings": {  
+      "index": {  
+        "lifecycle": {  
+          "name": "my-aux-log"  
+        }      }    },    "mappings": {  
+      "properties": {  
+        "accessDate": {  
+          "type": "date"  
+        },        "accessType": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "appAccess": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "comment": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "entityKey": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "entityType": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "userEmail": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "userId": {  
+          "type": "long"  
+        },        "userName": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "userToken": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "index_options": "docs",  
+          "split_queries_on_whitespace": false,  
+          "doc_values": true  
+        },        "userType": {  
+          "eager_global_ordinals": false,  
+          "norms": false,  
+          "index": true,  
+          "store": false,  
+          "type": "keyword",  
+          "split_queries_on_whitespace": false,  
+          "index_options": "docs",  
+          "doc_values": true  
+        }      }    },    "aliases": {  
+      "aux-log": {}  
+    }  },  "index_patterns": [  
+    "aux-log-*"  ],  "composed_of": [],  
+  "allow_auto_create": true  
 }
+
+
 ```
+
 `indices.lifecycle.poll_interval` ce champs permet de modifier l'intervalle de temps pour check les life cycle des index (passer de hot à warm à cold …)
 
 **Si on veut faire de la data visualisation avec kibana sur des champs text il faut les passer en keyword**
