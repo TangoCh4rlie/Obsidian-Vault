@@ -14,4 +14,6 @@ La syntaxe 1000:4000 signifie que 1000 sera le port sur la machine physique et 4
 Permet à partir d'un docker-compose.yml de lancer plusieurs image a la fois
 
 ### Rerun un docker de la liste docker ps -a 
-docker start -i <name>
+``docker start -i <name>``
+
+Dans un fichier d'env on peut dire  ``host.containers.internal:9200`` pour pointer vers le port 9200
