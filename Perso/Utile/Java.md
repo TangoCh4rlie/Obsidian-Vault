@@ -63,3 +63,16 @@ class StringArraySerializer extends JsonSerializer<String[]> {
 private String[] entityKey = null;
 
 ```
+
+### Callable
+Permet de chercher si une valeur va pas lever une NPE 
+```java
+private <T> T safeGetExternalValue(Callable<T> getter) {  
+    try {  
+        return getter.call();  
+    } catch (Exception e) {  
+        return null;  
+    }  
+}
+this.safeGetExternalValue(entity::getEntiteMetier)
+```
