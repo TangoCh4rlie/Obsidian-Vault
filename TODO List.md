@@ -1,7 +1,6 @@
 - [ ] faire un interpreteur
-- [ ] Portfolio
 - [ ] K8S
-- [ ] AI local
+- [ ] AI local (mac)
 
 ## Truc a lire / faire 
 https://gsap.com/
