@@ -1,2 +1,3 @@
 - Pour les icônes, utiliser SF symbole 6, c'est une librairie fourni par Apple avec des icônes qui ont des interactions
 - Bien, penser à importer les assets de couleur et de logo…
+- [Transitions de phases : active, inactive et arrière plan](https://developer.apple.com/tutorials/app-dev-training/responding-to-events) 
