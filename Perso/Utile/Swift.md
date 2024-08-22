@@ -43,3 +43,28 @@ class ScrumStore: ObservableObject {
     }
 }
 ```
+
+### NSCache
+NSCache stocker des éléments en mémoire pour y accéder plus rapidement
+```swift
+let imageCache = NSCache<NSString, UIImage>()
+
+func downloadImage(url: URL, completion: @escaping (UIImage?) -> Void) {
+    if let cachedImage = imageCache.object(forKey: url.absoluteString as NSString) {
+        completion(cachedImage)
+    } else {
+        DispatchQueue.global().async {
+            if let data = try? Data(contentsOf: url), let image = UIImage(data: data) {
+                imageCache.setObject(image, forKey: url.absoluteString as NSString)
+                DispatchQueue.main.async {
+                    completion(image)
+                }
+            } else {
+                DispatchQueue.main.async {
+                    completion(nil)
+                }
+            }
+        }
+    }
+}
+```
