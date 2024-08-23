@@ -5,3 +5,12 @@ Pouvoir partager ses révisions
 Faire en sorte que ces révisions soient ludiques
 Système de flamme
 Notifications
+
+Apprentissage espacé
+flash card
+auto test
+carte mentale
+expliquer a quelqu'un d'autre (famille, amis)
+
+[Design](design)
+[Branding](branding)

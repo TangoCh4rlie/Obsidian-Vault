@@ -2,6 +2,8 @@
 - Bien, penser à importer les assets de couleur et de logo…
 - [Transitions de phases : active, inactive et arrière plan](https://developer.apple.com/tutorials/app-dev-training/responding-to-events) 
 
+Elements a prendre en compte lors du [design](design) : 
+
 ### Stockage de données dans un fichier
 ```swift
 import Foundation
