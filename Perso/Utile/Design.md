@@ -1,7 +1,9 @@
 [conseils pour développer des interfaces (apple)](https://developer.apple.com/tutorials/app-dev-training/exploring-app-design)
 [notions appliquable pas que pour iOS (accessibilité...)](https://developer.apple.com/ios/planning/)
 
-Globalement sur toute l'app garder une cohérence que ce soit au niveau des couleurs, des icons ou bien des polices
+- Globalement sur toute l'app garder une cohérence que ce soit au niveau des couleurs, des icons ou bien des polices
+- Faire des animations mais pas trop non plus pour pas que l'utilisateur soit perdu (optionnel au debut)
+- Demander la permission pour ce qui est des autorisations sur les données...
 
 ### Conception de l'application
 ##### Les couleurs
