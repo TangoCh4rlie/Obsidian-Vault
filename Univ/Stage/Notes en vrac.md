@@ -56,3 +56,6 @@ Normalement lundi prochain je devrai avoir un server elastic en recette sur lequ
 Je continue le déploiement, on en est à 4 sur 7 dont 1 qui ne marche pas. Je pense que ca viens du fait que je n'utilise pas l'api management et comme c'est une application externe au réseau de l'Auxiliaire je ne peux pas accéder aux services du réseau local (donc ma queue azure). Sinon j'ai gérer des nouveaux problèmes que j'aurai pu causer avec ma lib. 
 Mardi le elastic de recette production et dev a été mis en place et j'ai pu le configurer avec les droit d'accès pour les utilisateurs, ainsi que les lifecycles et les templates d'index
 ![[Avancé_du_projet_22-05.png]]
+
+### Jeudi 23/05
+J'ai pratiquement fini le projet de la piste d'audit et donc en attendant les dernières mises en recettes j'ai été affecté sur un projet de l'auxiliaire ou il faut faire passer le sonar. Mais bon il y en à 1100... 
