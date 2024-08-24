@@ -4,5 +4,4 @@ Clavier
 
 infomaniak
 shadow
-ecosia
 ovh
