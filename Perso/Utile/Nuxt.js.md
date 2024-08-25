@@ -1,0 +1,1 @@
+[variables d'environnement et config](https://nuxt.com/docs/getting-started/configuration)
