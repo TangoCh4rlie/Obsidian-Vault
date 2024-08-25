@@ -1,0 +1,1 @@
+[make.com](make.com) pour faire de l'automatisation (possibilité de rajouter des briques d'intelligences artificiels) [exemple](https://www.youtube.com/watch?v=JRunkvugXYw)d'une automatisation a grande échelle pour la publication de contenu sur des réseaux sociaux

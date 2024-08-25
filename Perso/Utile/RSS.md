@@ -1,0 +1,1 @@
+[rss.app](rss.app) un site qui permet de générer des flux RSS sur des sites qui ne proposent pas cette fonctionnalité
