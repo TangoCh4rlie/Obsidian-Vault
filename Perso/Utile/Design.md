@@ -4,6 +4,11 @@
 - Globalement sur toute l'app garder une cohérence que ce soit au niveau des couleurs, des icons ou bien des polices
 - Faire des animations mais pas trop non plus pour pas que l'utilisateur soit perdu (optionnel au debut)
 - Demander la permission pour ce qui est des autorisations sur les données...
+- Commencer par designer la fonctionnalité principale de l'application
+- Mettre plus d'espace entre les éléments qu'on le pense
+- Z patern, mettre en avant les éléments importants (gras, plus gros...)
+
+Demander du feed-back le plus rapidement possible
 
 ### Conception de l'application
 ##### Les couleurs
