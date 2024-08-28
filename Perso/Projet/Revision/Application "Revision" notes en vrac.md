@@ -2,6 +2,8 @@
 [Design](design)
 [Branding](branding)
 
+Boite de Leitner
+
 ## Concept principal de l'application
 
 Proposer une solution permettant de réviser efficacement. 
@@ -25,7 +27,7 @@ Utiliser le plus de sens possible :
 - écoute (écouter des audio pour assimiler des notions)
 - olfactif (pas possible)
 
-Système de carte recto-verso, un coté une question, l'autre la réponse.
+Système de carte recto-verso, un coté une question ou image ou son, l'autre la réponse.
 ***Possibilité d'évolution** : A partir d'un cours / pdf / photo générer des carte d'auto test pour les révisions*
 
 Questions a choix multiple, vrai faux (justification orale, retranscription du texte puis analyse)
@@ -38,8 +40,12 @@ Session d'explication d'une notion de révision à un proche (ami, parent, frèr
 - Créer des groupes de matière pour organiser ses révisions
 - Créer un profile
 - Partager ses révisions ou groupes de révisions
+	- Publique
+	- Seulement mes ami
+	- Privé
 - Système d'agenda dans lequel l'utilisateur peut saisir ses contrôles à venir
 - Notifications pour commencé les révisions en fonction d'un contrôle
+- Pouvoir retravailler les erreurs de sessions précédentes
 
 
 ### Système de gamification : 
