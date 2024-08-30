@@ -46,6 +46,7 @@ Session d'explication d'une notion de révision à un proche (ami, parent, frèr
 - Système d'agenda dans lequel l'utilisateur peut saisir ses contrôles à venir
 - Notifications pour commencé les révisions en fonction d'un contrôle
 - Pouvoir retravailler les erreurs de sessions précédentes
+- Suggestion du jour en fonction des contrôles à venir
 
 
 ### Système de gamification : 
