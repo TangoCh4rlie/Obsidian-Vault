@@ -47,6 +47,7 @@ Session d'explication d'une notion de révision à un proche (ami, parent, frèr
 - Notifications pour commencé les révisions en fonction d'un contrôle
 - Pouvoir retravailler les erreurs de sessions précédentes
 - Suggestion du jour en fonction des contrôles à venir
+- Compteur Pomodoro (25 min de travail, 5 min de pause)
 
 
 ### Système de gamification : 
