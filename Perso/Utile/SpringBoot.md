@@ -45,3 +45,31 @@ implémenter l'interface ``HandleInterceptor``
 ### Récupérer un objet avant qu'il soit retourné
 implémenter l'interface ``ResponseBodyAdvice``
 permet de manipuler l'objet avant de le retourner 
+
+### Projection
+Si l'utilisation de DTO n'est pas possible par ce que la query ne retourne pas une table a proprement parlé mais des éléments de plusieurs table, on peut faire un **projection
+
+```java
+public interface UtilisateurHabilitationProjection {  
+    String getPrenom();  
+    String getNom();  
+    String getCodeVisa();  
+    Boolean getActif();  
+    String getGroupeLibelle();  
+    String getSousGroupeLibelle();  
+    Integer getMontantHabilitationProvision();  
+    Integer getMontantHabilitationReglement();  
+}
+```
+
+cette interface peut être retourné comme un DTO dans une ResponseEntity
+```java
+@GetMapping("habilitations")  
+@Operation(summary = "Permet de récupérer la liste des utilisateur qui ont une habilitation dans un des trois groupe")  
+public ResponseEntity<List<UtilisateurHabilitationProjection>> getHabilitations(  
+        CurrentAuth currentAuth,  
+        @RequestParam(name = "rolesBan", required = false) List<String> rolesBan  
+) {  
+    return ResponseEntity.ok().body(utilisateurService.findAllHabilitation(currentAuth, rolesBan));  
+}
+```
