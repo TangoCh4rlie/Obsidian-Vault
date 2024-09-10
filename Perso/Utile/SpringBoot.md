@@ -1,3 +1,19 @@
+## Configurer un projet SpringBoot
+[https://start.spring.io](https://start.spring.io) pour inititaliser un projet avec des dépendances
+Mettre flyway avec la bonne configuration
+```groovy
+plugins {  
+    id 'org.flywaydb.flyway' version '8.2.0'  
+}  
+  
+flyway {  
+    url = 'jdbc:mysql://localhost/saera3?createDatabaseIfNotExist=true&useSSL=false'  
+    user = 'root'  
+    password = 'root'  
+}
+```
+`id 'org.flywaydb.flyway' version '8.2.0'` la 10.0.0 marchait pas la dernière fois que j'ai essayé. **Repasser en 8.2.0**
+
 [Java](java)
 @Bean : Permet de faire de "l'injection de dépendance" pour par exemple créer une connexion avec une bd :
 
