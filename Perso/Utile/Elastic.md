@@ -169,3 +169,22 @@ PUT _index_template/my-log-template
 `indices.lifecycle.poll_interval` ce champs permet de modifier l'intervalle de temps pour check les life cycle des index (passer de hot à warm à cold …)
 
 **Si on veut faire de la data visualisation avec kibana sur des champs text il faut les passer en keyword**
+
+
+```http
+PUT /_data_stream/aux-log-stream
+
+POST /_reindex?wait_for_completion=false
+{
+  "source": {
+    "index": ".ds-aux-log-data-stream-2024.09.06-000001"
+  },
+  "dest": {
+    "index": "aux-log-stream",
+    "op_type": "create"
+  }
+}
+
+GET /_tasks/wNpW8VHsQgyP3b19F2jQCw:51400609
+```
+
