@@ -1,4 +1,4 @@
-[springboot](SpringBoot)
+[springboot](Perso/Utile/SpringBoot.md)
 ### Utilisation de stream
 ``` java
 List<? extends Serializable> notNullValues = Stream.of(  
