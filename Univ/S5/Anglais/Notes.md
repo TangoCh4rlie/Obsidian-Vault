@@ -29,4 +29,27 @@ team working
 adaptability
 sociable
 
+## Video présentation of myself
+
+presentation
+skills
+working methods
+team work
+projects
+habits
+salutation
+
+intro (presentation of myself(age, name, city))
+studies (iut lyon 1, possibly a master in computer science in the same campus)
+hardskills (all front languages,  all back languages, devops skills)
+softskills (communication skill, i'm good listener with the client and i understand the client expectation)
+current situation(i'm woking at )
+interests
+expectations(i love to be challenged)
+
+
+"in my next job, i'm challenging myself"
+
+
+
 

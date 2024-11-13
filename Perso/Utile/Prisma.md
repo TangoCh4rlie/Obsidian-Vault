@@ -22,3 +22,9 @@ model Post {
 }
 
 npx prisma migrate dev --name init
+
+$$
+\int \ln(u) \, \mathrm{d}u = u \ln(u) - u + C
+$$
+
+

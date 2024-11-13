@@ -6,3 +6,7 @@
 qualité de code: 
 
 tester les performances du code
+
+not only focus
+
+
