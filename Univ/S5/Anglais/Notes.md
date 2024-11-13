@@ -43,8 +43,8 @@ intro (presentation of myself(age, name, city))
 studies (iut lyon 1, possibly a master in computer science in the same campus)
 hardskills (all front languages,  all back languages, devops skills)
 softskills (communication skill, i'm good listener with the client and i understand the client expectation)
-current situation(i'm woking at )
-interests
+current situation(i'm woking at Axopen in a team of 15 people, there are severals customers we have to discus with)
+interests(i have a lot of interests )
 expectations(i love to be challenged)
 
 
