@@ -34,6 +34,13 @@
 - C elles sont corrects mais pas assez mises en avant
 ### numero 18
 - B manque quelques titres 
-- B mettre les manière
-- C manque de la mise en avant des compétences de gestion de projet
-- C elles sont corrects mais pas assez mises en avant
+- B mettre les compétences de manière plus visible et directes
+- C il en parle tres peux alors que c'est un poste de chef de projet
+- A les technos sont explicite et bien justifié
+# classement
+8
+3
+18
+4
+6
+
