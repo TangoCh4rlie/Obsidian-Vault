@@ -4,6 +4,3 @@ Il est possible de faire des regex pour matcher sur des strings
 
 
 on peut utiliser le $jsonSchema pour vérifier la structure la structure d'un document par exemple dans un find ou un aggregate
-
-
-
