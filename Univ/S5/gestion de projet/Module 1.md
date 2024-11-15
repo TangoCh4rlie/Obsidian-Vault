@@ -71,5 +71,85 @@ Faire des sessions de brainstorming pour comprendre le besoin des utilisateurs
 **Shadowing**: regarder comment la personne travaille en regardant simplement la personne dans son quotidien.
 **Role-Playing**: se mettre à la place de la personne pour mieux comprendre  les aspect de la tache à réaliser
 
+C'est une partie vraiment **importante** de la gestion de projet, il peut y avoir des grosses conséquences en cas d'oubli.
+Ne pas oublier d'aller voir d'autres personnes pour poser des question et potentiellement relever des points auxquels on aurait pas pensé.
+
+Pendre en compte les shakeholders en fonction de leurs influence et de leur intérêt "pour ou contre" le projet.
+
+**Complexité d'un projet**: (slide 52)
+
+Soigner ses promoteurs pour qu'ils reste dans le projet et gardes ces parties prenantes
+Les neutres sont influençable, ça vaut donc le coup de tout donner pour convaincre ces personnes d'adhérer au projet et devenir promoteur
+Les contres sont beaucoup plus dur a convaincre, mais avec l'effet de masse ils peuvent changer d'eux même. 
+
+### Pyramide
+**Triple contrainte:** cout, temps et qualité/scope
+Ne pas oublier de prendre en compte les **facteurs environnementaux:** personnes, politique d'entreprise, localisations, organisation de l'entreprise...
+Ne pas oublier de rajouter la gestion des risque dans nos estimations
+
+Attention les priorités peuvent évoluer au cours du projet
+
+##### Scope management
+- besoin du client (quoi), le plus important pour définir la solution à développer
+	- interview
+	- discutions interactives (avec des experts techniques)
+	- brainstorming
+	- technique Delphi: faire des questionnaires de manière anonyme (pousse les gens à ne pas afficher leur étiquette (ex: .NET/JAVA)) 
+	- questionnaires: pour récupérer des informations sur les utilisateurs
+	- job shadowing: (utilisé pour la résolution de problèmes)
+	- prototypage: en créant un POC et en itérant en fonction des besoin utilisateurs
+
+Trouver un équilibre entre les besoin des utilisateurs (parfois contradictoire), si on arrive pas a choisir on peut résoudre le problème avec des réunions, team-building.
+
+En listant tous les requirements ne sont pas a réaliser, il faut en choisir pour ne pas être débordé
+
+##### Work breakdown structure
+Consiste à prendre le travail a faire et le découper en sous parties que je vais pouvoir livrer.
+Découper ça en paquets de livrables
+Pour se retrouver dans cet arbre on peut écrire ca dans un dictionnaire qu'on documente pour pouvoir se retrouver
+
+PAS D'ACTIVITE MAIS LIVRABLES
+#### Planning de réalisation
+Chemin critique slide 78 EXAM
+4 types de relations pour les taches a faire
+
+fast tracking: le fait de faire les choses en parallèle (idéal)
+Crashing: ajouter des ressources (par ce qu'on est en retard, mais ca coute plus cher)(désespoir mais ça marche)
+
+slide 79
+**milestone chart**: idéale pour la direction en présentation de projet
+**Gantt**: pour l'équipe au globale
+le dernier: pour les sous équipe précisément pour chaque fonctionnalité
+
+#### Cout 
+définir pour chaque activité définir une estimation du cout 
+- identifier les ressources leurs connaissance...
+- si elles sont critiques (ressources)
 
 
+WBS -> Activités -> définition des ressources
+catégories : slide 84
+
+faire des estimations en commancant par des estimation très gros grain puis descendre en granularité
+  
+  
+### Résumé
+requirement -> delivrables -> activités -> planing (durée) -> ressources -> budget
+pour être au top en plus de tout ce procédé il faut penser à la gestion des risques
+
+### Project Baseline 
+C'est le référentiel du projet (comme un phare), pour se raccrocher à quelque chose. défini en fonction de la pyramide précédemment décrite
+slide 90 détail des financement, **coast baseline**
+
+scope baseline = scope statement + WBS + dictionary
+time baseline = estimation de départ (savoir faire avec les retard...)
+
+une baseline c'est finalement une photo au moment du lancement du projet de la pyramide
+
+### Monitoring
+collecter -> analyser -> reporter
+**Collecter** : différentes manière de collecter des informations
+**Analyser** : pour après analyser les données et voir quel est la variance avec la baseline initiale (comparaison)
+quand on est sous la baseline du projet ça veut pas dire qu'on est pas forcément en avance ou bien au niveau du projet (il manque des livrables). Wattermelon effect. Il faut donc ne pas seulement regarder le temps et le budget mais aussi les **livrables avec le scope**
+Mettre en place des solutions pour essayer de rattraper la baseline 
+**Report**: faire un résumé (pas de truc verbeu) utiliser des RAG (red, amber, and green) et des fleches pour indiquer les tendances de chaque (on peut appliquer sur chaque livrable mais aussi sur l'aspect global du projet) **(le prof recommande refaire un slide avec les couts, durée et scope, un pour les risques et un dernier avec la solution à apporter)**
