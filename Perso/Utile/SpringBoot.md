@@ -89,3 +89,55 @@ public ResponseEntity<List<UtilisateurHabilitationProjection>> getHabilitations(
     return ResponseEntity.ok().body(utilisateurService.findAllHabilitation(currentAuth, rolesBan));  
 }
 ```
+## Test avec une bd h2
+```java
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)  
+@ActiveProfiles("test")  
+@TestMethodOrder(MethodOrderer.OrderAnnotation.class)  
+class AuthControllerTest {  
+    @LocalServerPort  
+    private int port;  
+  
+    private String PATH;  
+  
+    @BeforeEach  
+    public void setUp() {  
+        PATH = "http://localhost:" + port;  
+    }  
+  
+    @Test  
+    @Order(2)  
+    void createToken() {  
+        RestTemplate restTemplate = new RestTemplate();  
+        AuthenticationRequestDTO authen = new AuthenticationRequestDTO();  
+        authen.setUsername("toto");  
+        authen.setPassword("titi");  
+        HttpHeaders headers = new HttpHeaders();  
+        headers.set("Content-type", "application/json;charset=UTF-8");  
+        HttpEntity<AuthenticationRequestDTO> request = new HttpEntity<>(authen, headers);  
+        AuthResponseDTO authenticationResponse =  
+                restTemplate.postForObject(PATH + "/authenticate", request, AuthResponseDTO.class);  
+        assertNotNull(authenticationResponse);  
+        String token = authenticationResponse.getAuthenticationResponseDTO().getJwtToken();  
+        assertNotNull(token);  
+    }  
+  
+    @Test  
+    @Order(1)  
+    void register() {  
+        RestTemplate restTemplate = new RestTemplate();  
+        RegisterRequestDTO registerRequestDTO = new RegisterRequestDTO();  
+        registerRequestDTO.setUsername("toto");  
+        registerRequestDTO.setPassword("titi");  
+        registerRequestDTO.setPasswordConfirm("titi");  
+        registerRequestDTO.setUserType("PARRAIN");  
+  
+        HttpHeaders headers = new HttpHeaders();  
+        headers.set("Content-type", "application/json;charset=UTF-8");  
+        HttpEntity<RegisterRequestDTO> request = new HttpEntity<>(registerRequestDTO, headers);  
+        AuthResponseDTO registerResponse = restTemplate.postForObject(PATH + "/register", request, AuthResponseDTO.class);  
+        assertNotNull(registerResponse);  
+        assertNotNull(registerResponse.getAuthenticationResponseDTO().getJwtToken());  
+    }  
+}
+```
