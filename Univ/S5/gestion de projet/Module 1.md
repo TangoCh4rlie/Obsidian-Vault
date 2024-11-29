@@ -153,3 +153,14 @@ collecter -> analyser -> reporter
 quand on est sous la baseline du projet ça veut pas dire qu'on est pas forcément en avance ou bien au niveau du projet (il manque des livrables). Wattermelon effect. Il faut donc ne pas seulement regarder le temps et le budget mais aussi les **livrables avec le scope**
 Mettre en place des solutions pour essayer de rattraper la baseline 
 **Report**: faire un résumé (pas de truc verbeu) utiliser des RAG (red, amber, and green) et des fleches pour indiquer les tendances de chaque (on peut appliquer sur chaque livrable mais aussi sur l'aspect global du projet) **(le prof recommande refaire un slide avec les couts, durée et scope, un pour les risques et un dernier avec la solution à apporter)**
+
+
+### Résumé : 
+- organisation temporaire qui a pour but de créer UN produit unique
+- **se renseigner sur les formations**
+- différents types de méthodes de travail
+- méthode SMART pour récupérer les besoins clients, permettre de définir des objectifs (DS)
+- penser à la gestion des parties prenantes
+- 80% du temps du chef de projet c'est de la communication 
+- pyramide : Scope, time, cost, risque...
+- Baseline : qu'est ce qui est intéressant de mesurer afin de pouvoir voir une évolutions
