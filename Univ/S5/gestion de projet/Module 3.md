@@ -3,7 +3,7 @@ slide 9 ds
 ### LE MOT VISION
 ### WHY
 
-arriver a déterminer le réel conflict (le réel chose qui cause le dysfonctionnement). parfois il n'y a pas de vrai conflict mais seulement un quiproco avec plusieurs personnes
+arriver a déterminer le réel conflict (le réel chose qui cause le dysfonctionnement). parfois il n'y a pas de vrai conflict mais seulement un quiproco avec plusieurs personnesq
 slide 12 ds
 slide 23 ds
 slide 33 ds
