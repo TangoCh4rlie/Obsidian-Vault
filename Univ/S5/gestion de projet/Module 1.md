@@ -65,7 +65,7 @@ L'équipe projet n'est souvent pas contenue dans les stakeholder puisqu'ils sont
 C'est une personne qui va nous aider financièrement
 Attention il y a une deuxième notion: ça peut être aussi la personne qui va défendre le projet et le représenter aux yeux du publique (sponsor qui a de l'importance pour l'entreprise mais qui reste disponible pour qu'il puisse participer aux réunions, meetings...)
 
-### Identification des shakeholders
+### Identification des stakeholders
 Toutes les personnes qui sont impacté par le projet (positif ou négatif), essayer de nommer des représentant pour simplifier. 
 Faire des sessions de brainstorming pour comprendre le besoin des utilisateurs
 **Shadowing**: regarder comment la personne travaille en regardant simplement la personne dans son quotidien.
