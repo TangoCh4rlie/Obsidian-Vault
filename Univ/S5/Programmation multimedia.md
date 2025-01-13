@@ -62,3 +62,77 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     fragColor = vec4(col,1.0);
 }
 ```
+
+```
+void mainImage( out vec4 fragColor, in vec2 fragCoord )
+{
+    
+    vec3 col1 = vec3(1.,0.,0.);
+    vec3 col2 = vec3(0.,0.,1.);
+
+    if (iMouse.z > 0.0) {
+        vec2 centre = iResolution.xy / 2.;
+        float dist = distance(centre, fragCoord);
+        
+        float rayon = 300.;
+    
+        float alpha = dist/rayon;
+        
+        vec3 col = col1*alpha + (1.-alpha)*col2;
+        
+        fragColor = vec4(col,1.0);
+    } else {
+     fragColor = vec4(col2,1.0);
+    }
+}
+```
+
+```
+void mainImage( out vec4 fragColor, in vec2 fragCoord )
+{
+    
+    vec3 col1 = vec3(1.,0.,0.);
+    vec3 col2 = vec3(0.,0.,1.);
+
+    if (iMouse.z > 0.0) {
+        vec2 centre = iMouse.xy;
+        float dist = distance(centre, fragCoord);
+        
+        float rayon = 300.;
+    
+        float alpha = dist/rayon;
+        
+        vec3 col = col1*alpha + (1.-alpha)*col2;
+        
+        fragColor = vec4(col,1.0);
+    } else {
+     fragColor = vec4(col2,1.0);
+    } 
+}
+```
+
+```
+void mainImage( out vec4 fragColor, in vec2 fragCoord )
+{
+    
+    vec3 col1 = vec3(1.,0.,0.);
+    vec3 col2 = vec3(0.,0.,1.);
+
+    if (iMouse.z > 0.0) {
+        vec2 centre = iMouse.xy;
+        float dist = distance(centre, fragCoord);
+        
+        float rayon = 300.;
+        vec3 colA = col1;
+    
+        if (dist < rayon) {
+            colA = col2;
+        }
+        
+        fragColor = vec4(colA,1.0);
+    } else {
+     fragColor = vec4(col2,1.0);
+    }
+}
+```
+

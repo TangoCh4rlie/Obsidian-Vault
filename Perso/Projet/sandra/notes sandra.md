@@ -11,3 +11,10 @@ Angular (front)
 back a définir
 R2 pour le stockage d'images
 cloudflare pages pour le déploiement
+
+mon
+
+Simplicité d'utilisation pour toutes personnes (tout âge)
+
+
+
