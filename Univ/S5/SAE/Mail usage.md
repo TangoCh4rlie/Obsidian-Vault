@@ -1,7 +1,6 @@
 *Voici l'utilisation de l'outil d'envoi de mail de l'ERP du groupe 3.*
 ### Prérequis
 Avoir l'api de lancé ainsi que le front.
-
 ### Utilisation
 Rendez vous [ici](http://localhost:4200/mail) pour accéder à la page de mail. Sur cette première vu vous aurez la possibilité de : 
 	- Sélectionner un template de mail (si il y en a en base de données)
