@@ -10,6 +10,7 @@
 
 #### C'est plus loin
 [Université de loraine](https://www.monmaster.gouv.fr/master/universite-de-lorraine/informatique-28?q=informatique&p=2&position=12&layout=1)
+[Université de Rennes](https://www.monmaster.gouv.fr/master/universite-de-rennes/informatique-19?q=informatique%20devops&layout=1&position=0)
 
 ### Secteur privé
 - [CPE](https://www.cpe.fr/) parcours [Diplôme d’ingénieur en informatique et réseaux de communication](https://www.cpe.fr/formation-numerique/ingenieur-informatique-reseaux/)
