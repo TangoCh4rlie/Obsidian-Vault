@@ -11,5 +11,6 @@ https://cpu.land/the-basics
 - site velov trafique stats
 - IOS app révision
 - faire un MP3 avec un raspberry pi
-- 
 
+
+regarder DORA NIS2 IA act et le CR act
