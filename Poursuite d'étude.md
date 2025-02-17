@@ -14,6 +14,9 @@
 
 ### Secteur privé
 - [CPE](https://www.cpe.fr/) parcours [Diplôme d’ingénieur en informatique et réseaux de communication](https://www.cpe.fr/formation-numerique/ingenieur-informatique-reseaux/)
+
+Bonjour, vous trouverez mon portfolio sur le lien suivant : https://elouanreymond.com. Il pourra vous apporter plus d'information à propos des divers projets que j'ai eu l'occasion de réaliser. 
+
   ##### #1
 PO 8 février 2025 [inscription](https://events.studizz.fr/link/678901509daaf1d32069e9d5)
 
