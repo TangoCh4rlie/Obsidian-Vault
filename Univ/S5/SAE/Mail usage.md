@@ -14,4 +14,7 @@ Il vous faudra sélectionner un expéditeur, un objet et remplir les valeurs dyn
 Les valeurs dynamique du template se mettrons à jour toutes seules dans le rendu sur la droite.
 Une fois le mail rédigé vous pouvez envoyer votre mail. Si vous envoyez un mail pour la première fois depuis le lancement de l'api à un expéditeur, il vous faudra attendre 60 seconde. Tant que vous n'êtes pas renvoyé sur la page /mail le mail n'a pas été envoyé.
 
+### Techniquement
+L'api se compose d'une 
+
 

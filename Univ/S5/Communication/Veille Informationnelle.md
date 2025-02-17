@@ -23,3 +23,13 @@ Pour ce qui est de la source Reddit, les postes sont réalisés par des utilisat
 
 #### Agrégateur de flux rss
 L'agrégateur de flux rss que nous avons choisit est [feedly](https://feedly.com). Nous avons mis toutes nos sources dessus pour pouvoir toutes les informations à un seul endroit.
+
+
+
+
+
+Croiser les informations pour en faire un plan pour les présenter
+intro
+conclusion
+
+prendre chaque doc, souligner les idées importantes. dans le but de répondre a la question initialie
