@@ -17,6 +17,8 @@
 
 Bonjour, vous trouverez mon portfolio sur le lien suivant : https://elouanreymond.com. Il pourra vous apporter plus d'information à propos des divers projets que j'ai eu l'occasion de réaliser. 
 
+Étant actuellement en alternance, j'ai déjà une entreprise avec laquelle je pourrais resigner un autre contrat pour les prochaines années à venir.
+
   ##### #1
 PO 8 février 2025 [inscription](https://events.studizz.fr/link/678901509daaf1d32069e9d5)
 
