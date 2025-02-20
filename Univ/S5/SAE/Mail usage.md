@@ -15,6 +15,9 @@ Les valeurs dynamique du template se mettrons à jour toutes seules dans le rend
 Une fois le mail rédigé vous pouvez envoyer votre mail. Si vous envoyez un mail pour la première fois depuis le lancement de l'api à un expéditeur, il vous faudra attendre 60 seconde. Tant que vous n'êtes pas renvoyé sur la page /mail le mail n'a pas été envoyé.
 
 ### Techniquement
-L'api se compose d'une 
+L'api se compose d'un seul end point qui sert à envoyer des mail. Ces mails doivent au minimum contenir : un destinataire, un objet, et un contenu. Il est possible d'envoyer du texte au format HTML dans un mail. 
+Le serveur SMTP de l'université nous permet d'envoyer des mail avec l'email no-reply-sae@univ-lyon1.fr. En revanche, il y a un temps d'attente de une minute lorsqu'on envoie un mail à une adresse pour la première fois. Nous avons donc du mettre un place un moyen de renvoyer le mail une minute plus tard si ce dernier n'est pas envoyé directement.
+
+Côté front, nous avons fait un module qui permet de choisir un template et de le remplir avec des valeurs dynamiques. Pour le reste de l'application nous avons mis a disposition une méthode *"fillTemplate"* pour à partir d'un template et d'une liste de clé, valeur remplir le template pour pouvoir l'envoyer au back par la suite.
 
 
