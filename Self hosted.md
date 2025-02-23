@@ -1,3 +1,4 @@
 LDAP
 bastion
+immich
 
