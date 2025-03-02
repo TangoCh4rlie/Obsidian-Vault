@@ -1,18 +1,14 @@
 Madame, Monsieur,
 
-Je suis très enthousiaste à l'idée de postuler pour un master en **-REMPLIR-** . Votre master  bénéficie d'une bonne réputation en matière de **-REMPLIR-**, et je suis très désireux de poursuivre ma formation au sein de votre école.
+Votre école propose une formation d'ingénieur en informatique et réseaux de communication en alternance. J'ai eu l'occasion de découvrir l'école de CPE durant le salon de l'étudiant qui s'est déroulé à Eurexpo puis aux portes ouvertes du 8 février derniers durant lesquelles j'ai pu échanger avec des professeurs et des étudiants. Ces échanges m'ont permis de mieux comprendre le programme proposé, ainsi que les opportunités qu'offre votre établissement et de confirmer mon intérêt pour cette formation.
 
-**-REMPLIR-** parler de la formation
+Je suis étudiant en troisième année de BUT informatique, passionné par le développement, mais aussi le DevOps. Mon parcours m'a permis d'explorer divers aspects du développement full stack. J'ai notamment conçu des applications web coté front end avec des frameworks comme angular, vue ou react, mais aussi côté back end avec SpringBoot, ExpressJs... Plus récemment, je me suis passionné pour le DevOps et la sécurisation des applications. Suite à plusieurs cours à l'université puis à plusieurs mises en pratique durant mon alternance, j'ai souhaité approfondir le sujet pendant mon temps personnel. J'ai ainsi déployé des applications avec Kubernetes et utilisé différents cloud providers pour diversifier mes connaissances.
 
-En ce qui me concerne, je suis étudiant en troisième année de BUT informatique, passionné par le développement mais aussi le DevOps. Mon parcours m'a permis d'explorer divers aspect du développement full stack. Notamment la conception d'application web coté front end avec des frameworks comme angular, vue ou react mais aussi le côté back end avec SpringBoot, ExpressJs... Plus récemment je me suis passionné pour le DevOps et la sécurisation des applications. Suite à plusieurs cours à l'université puis à plusieurs mise en pratique durant mon alternance, j'ai souhaité approfondir le sujet pendant mon temps personnel. J'ai déployé des application avec Kubernetes et utilisé différents cloud providers pour diversifié mes connaissances.
+La dimension internationale de votre formation m'intéresse tout particulièrement puisque je suis attaché aux partages et aux échanges entre pays. Depuis plusieurs années, je participe et co-organise des projets ERASMUS dans le but de rencontrer des jeunes d'autres pays (Grèce, Islande, Pologne, Finlande, Italie...).
 
-La dimension internationale de votre formation m'intéresse tout particulièrement puisque je suis attaché au partage et aux échanges entre pays. Depuis plusieurs années, je participe et organise des projets ERASMUS dans le but de rencontrer des jeunes d'autres pays (Grèce, Islande, Pologne, Finlande, Italie...).
+C’est pour ces raisons que j’aimerais intégrer votre formation pour devenir ingénieur en informatique.
 
-C’est pour ces raisons que j’aimerais intégrer votre formation pour approfondir mes connaissances. 
-
-*Je suis prêt à relever les défis qui se présenteront et à apporter, une le plus de contribution possible à votre équipe. Je suis également désireux d'apprendre de vous et de bénéficier de votre expertise dans le domaine de la cybersécurité.*
-
-Dans l'attente de l'opportunité de discuter davantage de ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
+Dans l'attente de l'opportunité de vous détailler davantage ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
 Cordialement,
 Elouan Reymond
