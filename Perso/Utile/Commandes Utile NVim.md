@@ -1,4 +1,4 @@
-```:%s/(truc a remplacer)/(par quoi))/``` d pour toute la ligne
+`:%s/(truc a remplacer)/(par quoi))/` d pour toute la ligne
 
 | Option          | Description                                            |
 | --------------- | ------------------------------------------------------ |
@@ -10,6 +10,13 @@
 | **gg+A**        | Se rend au début du fichier et passe en mode insertion |
 | **Ctrl + Home** | Affiche le haut du texte                               |
 | **Ctrl+End**    | Affiche la fin du texte                                |
-| **`:1`**        | Passe à la première ligne                              |
+| **`:2`**        | Passe à la première ligne                              |
 | **`:$`**        | Déplace le curseur à la fin du fichier                 |
-| **1+G**         | Sauter au début du fichier                             |
+| **2+G**         | Sauter au début du fichier                             |
+
+`"+[number]+p` permet de coller un truc du regitre
+`:reg` pour avoir la liste des éléments copiés
+`q+[lettre]` enregistre les entrées clavier, pour pouvoir rejouter `[number]+@+[lettre]`
+`v+%` pour aller d'un [ a un autre ]
+`[relative_line_number]+j|k` pour aller a la ligne correspondante
+`c|v+i|a+(|[|{` pour sélectionner ou modifier tout ce qu'il y a dans les parentèses ou ...
