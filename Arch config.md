@@ -6,4 +6,5 @@ https://sw.kovidgoyal.net/kitty/ kitty
 - [ ] avoir le grep qui marche dans nvim
 - [ ] avoir des couleurs avec zsh
 - [ ] avoir les macors pour zsh
+- [ ] avoir les spec cpu memory et temperature dans la waybar
 
