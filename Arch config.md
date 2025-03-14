@@ -3,8 +3,8 @@ https://sw.kovidgoyal.net/kitty/ kitty
 
 
 - [ ] Comic sans MS
-- [ ] avoir le grep qui marche dans nvim
-- [ ] avoir des couleurs avec zsh
-- [ ] avoir les macors pour zsh
+- [x] avoir le grep qui marche dans nvim
+- [x] avoir des couleurs avec zsh
+- [x] avoir les macors pour zsh
 - [ ] avoir les spec cpu memory et temperature dans la waybar
 
