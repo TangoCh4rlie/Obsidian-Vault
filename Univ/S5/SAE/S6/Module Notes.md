@@ -20,3 +20,10 @@
 
 Redéfinir avec Peytavie ce qui est à faire sur l'app et ce qui restera sur les app Legacy 
 Redéfinir avec Peytavie quelle genre de stats ils veulent pour pas qu'on aille sur un truc qui les intéressent pas.
+
+Rien ne marche
+Je refais le module de mail en 1h chrono en main
+La notation est injuste, juste de la poudre au yeux + mensonge sur le contenu du projet
+Pas de documentation alors que nous avons fait l'effort d'en faire sur le projet du S5
+Toutes les données dont mock.
+Les interactions en api et front est mal fait obligé de réimplémenter les feature meme les plus basiques
