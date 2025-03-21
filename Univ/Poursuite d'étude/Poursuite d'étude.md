@@ -37,3 +37,8 @@ PO le 15 février
 TODO: 
 
 attestation de stage
+
+
+Je suis actuellement en troisième année de BUT informatique à l'université Lyon 1. Je suis en alternance chez Axopen, une entreprise située à Part-Dieu avec laquelle je peux continuer mon alternance pour les deux prochaines années dans le cas où je serais accepté dans votre master.
+
+moyenne première année = 14,06

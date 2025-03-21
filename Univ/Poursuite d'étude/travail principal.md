@@ -1,0 +1,5 @@
+Au cours de mon parcours en informatique, j'ai travaillé sur un projet significatif intitulé "Logger de données métier". Ce projet consistait à développer une librairie Java pour logger les actions métier d'une assurance via des API SpringBoot. J'ai utilisé SpringBoot, Azure, ElasticSearch et Kibana pour collecter, indexer et visualiser les données. Cette expérience m'a permis d'analyser des tendances et d'optimiser les processus métier.
+
+En tant qu'alternant chez Axopen, j'ai également participé à la réalisation de nouvelles fonctionnalités pour une entreprise d'assurance BTP, en mettant l'accent sur la maintenance applicative et l'analyse des données pour améliorer la stabilité des applications.
+
+Enfin, mon expérience en freelance m'a permis de renforcer mes compétences en gestion de projet et en analyse des besoins utilisateurs. Ces expériences m'ont doté de solides compétences en analyse de données et en statistiques, essentielles pour résoudre des problèmes réels dans un contexte professionnel.
