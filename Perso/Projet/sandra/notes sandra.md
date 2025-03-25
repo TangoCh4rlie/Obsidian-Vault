@@ -18,23 +18,6 @@ cloudflare pages pour le déploiement
 - phrase
 
 
-mettre les texte en beaucoup plus petit et pas en gras
-première série enlever 3 images
-
-tester avec la dexuième photo
-
-première série : Encres 2024
-deuxième série : Encres sur Lin
-
-pas de description des titres
-
-Dessins-peintures La noche oscura
-
-
-mettre la dexuième image a la place de la premirèe pour les back pibnteings
-
-4 -> 1
-5 -> X
-1 -> 5
-6 -> 2
-
+---
+Je trouve la dernière photo de "Encres 2024" un peu flou
+Je trouve le + - pas très esthétiques
