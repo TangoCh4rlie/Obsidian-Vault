@@ -2,18 +2,18 @@
 [[univ]]
 
 ------------------------------------------------------------------------
-
+[[Univ/S6/sae/Schemas|Schemas]]
 Liste des formations 
-- [ ] INFORMATIQUE
+- [x] INFORMATIQUE
 
 Parcours
-- avoir une notion de volume horaire par parcours
-- [ ] RA
-- [ ] AGED
-- [ ] DACS
+- [ ] avoir une notion de volume horaire par parcours
+- [x] RA
+- [x] AGED
+- [x] DACS
 
 Année / Semestre
-- 3 années avec 2 semestre dans chaque année
+- [x] 3 années avec 2 semestre dans chaque année
 
 
 ### Prévoir le changement automatique d'années des étudiant ainsi que du statut
@@ -65,13 +65,14 @@ Comment faire
 
 
 ### Questions
-- [ ] Import/Export des parcours et semestres (en quoi ça consiste)
+- [x] Import/Export des parcours et semestres (en quoi ça consiste)
 - [ ] Gestion nombre de groupes par formation de l'année
 - [ ] Ajout logiciels nécessaire pour le module
-- [ ] Extraction de syllabus avec la description et données de la ressource
-- [ ] Affichage des heures EDT VS modules prévus
-- [ ] Gasel
-- [ ] Ajout d'heures allouées en enseignement et HRS
+- [x] Extraction de syllabus avec la description et données de la ressource
+- [x] Affichage des heures EDT VS modules prévus
+- [x] Gasel
+- [x] Ajout d'heures allouées en enseignement et HRS
+- [ ] comme gerer le cas des premières années qui n'ont pas de parcours? un parcours TC (tronc commun)
 
 Bonjour,
 
