@@ -17,11 +17,11 @@ Année / Semestre
 
 
 ### Prévoir le changement automatique d'années des étudiant ainsi que du statut
-- [ ] avoir un bouton pour passer  d'une année a l'autre
-- [ ] pouvoir supprimer des utilisateurs si il ne sont plus a l'université
+- [ ] avoir un bouton pour passer  d'une année a l'autre (api: OK)
+- [x] pouvoir supprimer des utilisateurs si il ne sont plus a l'université
 - [ ] sélectionner les étudiants a ne pas faire monter (redoubler)
 
-- [ ] pouvoir modifier les informations classe / année / parcours
+- [x] pouvoir modifier ls informations classe / année / parcours
 
 ### Prévoir l'affichage des ressources par parcours / semestre
 - [ ] ajouter / supprimer une ressource

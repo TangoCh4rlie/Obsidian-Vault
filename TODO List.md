@@ -5,6 +5,8 @@
 https://gsap.com/
 https://cpu.land/the-basics
 
+https://www.gilesthomas.com/2024/12/llm-from-scratch-1
+
 ### Pour s'entrainer : 
 - faire un MP3 avec un raspberry pi
 
