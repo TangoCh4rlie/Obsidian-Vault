@@ -1,5 +1,5 @@
 2025-03-31
-[[perso]] [[Tous ces projets de merde PTN]]
+[[perso]] [[Tous ces projets de merde PTN]][[MP3 Schema]]
 
 ---
 
@@ -24,6 +24,8 @@ un bouton play ou selectionner les dossier
 
 un jack pour pouvoir brancher un casque
 
+pour les fichier mp3, serverless cloudflare et dès que je met un mp3 sur le R2 il est ajouté dans une liste, facile pour la synchro
+
 
 [jack](https://forums.raspberrypi.com/viewtopic.php?t=127585)
 [raspberry pins](https://www.etechnophiles.com/raspberry-pi-zero-gpio-pinout-specifications-programming-language/)
@@ -44,7 +46,7 @@ https://www.youtube.com/watch?v=cVdSc8VYVBM
 
 ## LOG
 jour 1, j'arrive enfin a afficher du texte sur mon écran grace a ce [fichier](https://cdn.velleman.eu/downloads/29/infosheets/vma203_scheme.pdf) 
+je me rend compte que le shield que j'ai en plus de l'écran avec les bouton est un peu chiant et que ca va etre compliqué + techniquement pas trop possible. les 5 boutons sont sur une seule sortie analogique et le rasbperry pi 0 n'est pas compatible avec certaines lib pour lire de l'analogique
 
 
 
-pour les fichier mp3, serverless cloudflare et dès que je met un mp3 sur le R2 il est ajouté dans une liste, facile pour la synchro
