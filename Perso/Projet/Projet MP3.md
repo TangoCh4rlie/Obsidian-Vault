@@ -23,3 +23,28 @@ bouttons de directions pour choisir les musiques ou naviguer entre les repertoir
 un bouton play ou selectionner les dossier
 
 un jack pour pouvoir brancher un casque
+
+
+[jack](https://forums.raspberrypi.com/viewtopic.php?t=127585)
+[raspberry pins](https://www.etechnophiles.com/raspberry-pi-zero-gpio-pinout-specifications-programming-language/)
+https://github.com/adafruit/Adafruit_CircuitPython_CharLCD?tab=readme-ov-file
+https://umatechnology.org/how-to-play-mp3-and-other-audio-files-on-a-raspberry-pi/
+
+pour la batterie
+https://www.circuitbasics.com/how-to-power-your-raspberry-pi-with-a-lithium-battery/
+amazon
+https://www.amazon.fr/EEMB-103395-Rechargeable-Navigation-Enregistreur/dp/B08215B4KK/262-1195336-3091451?pd_rd_w=pOGaq&content-id=amzn1.sym.f4202548-28b9-4238-addd-1e87d5d2f948%3Aamzn1.symc.15cbde64-36a4-47c6-b315-5d1a0d7227bc&pf_rd_p=f4202548-28b9-4238-addd-1e87d5d2f948&pf_rd_r=Z24YV2GJQRX0CY47SST2&pd_rd_wg=tKxel&pd_rd_r=86068bf0-2568-4fa5-a0fd-b133578adc5b&pd_rd_i=B08215B4KK&th=1
+
+
+### DOC
+
+https://cdn.velleman.eu/downloads/29/infosheets/vma2031602datasheet.pdf
+https://www.youtube.com/watch?v=cVdSc8VYVBM
+
+
+## LOG
+jour 1, j'arrive enfin a afficher du texte sur mon écran grace a ce [fichier](https://cdn.velleman.eu/downloads/29/infosheets/vma203_scheme.pdf) 
+
+
+
+pour les fichier mp3, serverless cloudflare et dès que je met un mp3 sur le R2 il est ajouté dans une liste, facile pour la synchro
