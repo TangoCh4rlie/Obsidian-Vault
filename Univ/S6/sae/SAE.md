@@ -21,6 +21,9 @@ Année / Semestre
 - [x] pouvoir supprimer des utilisateurs si il ne sont plus a l'université
 - [ ] sélectionner les étudiants a ne pas faire monter (redoubler)
 
+- finir le tableau pour l'affichage des 
+- faire un import a partir d'un fichier CSV avec le P et les groupe/année/parcours
+
 - [x] pouvoir modifier ls informations classe / année / parcours
 
 ### Prévoir l'affichage des ressources par parcours / semestre
@@ -61,6 +64,9 @@ RELOU:
 
 #### Gasel??
 Comment faire
+
+sous la forme d'un récapitulatif
+enseignant il a fait quoi? quelles sont les heures qui ont été fait par le prof (sur chaque module combien de TD CM TP... et par parcours)
 
 
 

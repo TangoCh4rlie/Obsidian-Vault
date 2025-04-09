@@ -21,3 +21,9 @@ cloudflare pages pour le déploiement
 ---
 Je trouve la dernière photo de "Encres 2024" un peu flou
 Je trouve le + - pas très esthétiques
+
+---
+
+préparer toutes les parties (réquilibrer)
+rajouter le cv dans la bio
+laisser a la fin 

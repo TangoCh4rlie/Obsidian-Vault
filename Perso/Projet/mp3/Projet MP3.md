@@ -11,6 +11,11 @@ ce qu'il me faudrait :
 - [ ] breadboard
 - [ ] mp3 jack
 - [ ] headphone jack board
+## TODO
+- [ ] Connecter l'écran
+- [ ] Connecter les boutons
+- [ ] Alimenter le raspberry avec la batterie
+- [ ] Créer la partie server-less pour stocker les musiques sur un R2
 
 ### important
 32 bit
