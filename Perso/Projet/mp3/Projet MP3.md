@@ -48,6 +48,10 @@ https://www.amazon.fr/EEMB-103395-Rechargeable-Navigation-Enregistreur/dp/B08215
 https://cdn.velleman.eu/downloads/29/infosheets/vma2031602datasheet.pdf
 https://www.youtube.com/watch?v=cVdSc8VYVBM
 
+### ServerLess 
+https://aws.amazon.com/blogs/media/processing-user-generated-content-using-aws-lambda-and-ffmpeg/
+https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html
+
 
 ## LOG
 jour 1, j'arrive enfin a afficher du texte sur mon écran grace a ce [fichier](https://cdn.velleman.eu/downloads/29/infosheets/vma203_scheme.pdf) 
