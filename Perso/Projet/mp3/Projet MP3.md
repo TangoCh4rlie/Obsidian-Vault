@@ -37,6 +37,8 @@ pour les fichier mp3, serverless cloudflare et dès que je met un mp3 sur le R2 
 https://github.com/adafruit/Adafruit_CircuitPython_CharLCD?tab=readme-ov-file
 https://umatechnology.org/how-to-play-mp3-and-other-audio-files-on-a-raspberry-pi/
 
+https://www.instructables.com/Passive-Low-Pass-Filter-for-Audio-Circuits-Free-Fo/
+
 pour la batterie
 https://www.circuitbasics.com/how-to-power-your-raspberry-pi-with-a-lithium-battery/
 amazon
