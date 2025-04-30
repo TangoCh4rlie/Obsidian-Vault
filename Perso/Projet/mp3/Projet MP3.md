@@ -5,14 +5,14 @@
 
 ce qu'il me faudrait :
 - [x] pi 0
-- [ ] ecran LCD
+- [x] ecran LCD
 - [ ] boutons
-- [ ] resistances
-- [ ] breadboard
-- [ ] mp3 jack
-- [ ] headphone jack board
+- [x] resistances
+- [x] breadboard
+- [x] mp3 jack
+- [x] headphone jack board
 ## TODO
-- [ ] Connecter l'écran
+- [x] Connecter l'écran
 - [ ] Connecter les boutons
 - [ ] Alimenter le raspberry avec la batterie
 - [ ] Créer la partie server-less pour stocker les musiques sur un R2
@@ -58,6 +58,9 @@ https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html
 ## LOG
 jour 1, j'arrive enfin a afficher du texte sur mon écran grace a ce [fichier](https://cdn.velleman.eu/downloads/29/infosheets/vma203_scheme.pdf) 
 je me rend compte que le shield que j'ai en plus de l'écran avec les bouton est un peu chiant et que ca va etre compliqué + techniquement pas trop possible. les 5 boutons sont sur une seule sortie analogique et le rasbperry pi 0 n'est pas compatible avec certaines lib pour lire de l'analogique
+
+ligne super importante
+dtoverlay=audremap,pins_18_19
 
 
 
