@@ -42,3 +42,18 @@ attestation de stage
 Je suis actuellement en troisième année de BUT informatique à l'université Lyon 1. Je suis en alternance chez Axopen, une entreprise située à Part-Dieu avec laquelle je peux continuer mon alternance pour les deux prochaines années dans le cas où je serais accepté dans votre master.
 
 moyenne première année = 14,06
+
+
+
+
+
+
+
+
+
+
+
+
+### ALTERNANCES FAUT POSTULER
+
+https://recrute.groupe-casino.fr/fr/annonce/3639141-chef-de-projet-developpeur-en-alternance-fh-42000-saint-etienne
