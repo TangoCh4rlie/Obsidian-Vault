@@ -21,11 +21,4 @@ ecrire un mail a mbarek
 
 
 
-
-Auxo
-jeune boite
-multitache et touche a tout
-0 down time
-je connais la stack
-challenge technique
-AI / Big data
+approche innovante qui vise a répondre au besoin
