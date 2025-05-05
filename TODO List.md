@@ -14,7 +14,18 @@ https://mohitmishra786.github.io/exploring-os/src/
 - faire un MP3 avec un raspberry pi
 
 
-regarder DORA NIS2 IA act et le CR act
+envoyer des CV
+ecrire un mail a mbarek
 
-04 77 53 23 79 dentiste
-04 77 49 47 21 ophtalmo
+
+
+
+
+
+Auxo
+jeune boite
+multitache et touche a tout
+0 down time
+je connais la stack
+challenge technique
+AI / Big data
