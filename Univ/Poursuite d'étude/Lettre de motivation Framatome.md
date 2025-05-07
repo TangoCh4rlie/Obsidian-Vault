@@ -1,0 +1,9 @@
+Madame, Monsieur,
+
+Plusieurs raisons m'ont poussé à postuler chez vous. Le fait de travailler dans une entreprise avec des projets ambitieux et innovant est pour moi une réelle source de motivation. Les dimensions sociales de ce poste comportant des échanges avec d'autres équipes ainsi que des utilisateurs de la chaine ainsi que les dimensions techniques ont motivé ma candidature. Contribuer à l'évolution des outils de calculs scientifiques serait un objectif qui me permettrait de donner du sens au poste que j'occuperai.
+
+Je termine actuellement mon BUT informatique et prépare un master en informatique. Passionné par le développement, mais aussi le DevOps, mon parcours m'a permis d'explorer divers aspects du développement full stack. J'ai notamment conçu des applications web coté front end avec des frameworks comme angular, vue ou react, mais aussi côté back end avec Python, SpringBoot, ExpressJs... Plus récemment, j'ai développe un logiciel en Python pour réaliser un mp3 avec un raspberry pi. Ce projet mêle software et hardware ainsi que beaucoup de documentation sur des nouvelles technologies que je ne connais pas. Une bonne méthodologie me permet d'avancer sur ce projet que je suis en train de terminer.
+
+Rejoindre votre équipe serait un réel challenge technique stimulant pour moi. En effet, travailler sur de telles technologies de pointe me motive réellement. Je pourrais apporter mes connaissances sur les langages et technologies comme Linux, Python... Force de proposition, j'espère pouvoir contribuer activement à l'évolution de ce projet ambitieux. Je suis de nature sociable, persévérante et rigoureuse. J'adore découvrir de nouveaux outils et me former sur divers sujets. Je pense être capable de relever ce défi en intégrant vos équipes.
+
+Dans l'attente de l'opportunité de vous détailler davantage ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.

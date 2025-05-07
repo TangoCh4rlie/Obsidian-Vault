@@ -1,0 +1,12 @@
+Madame, Monsieur,
+
+Je vous adresse ma candidature spontanée pour un poste de développeur en alternance car
+les missions réalisées par les équipes de votre entreprise m’intéressent sincèrement.
+
+Plusieurs raisons m'ont poussé à postuler chez vous. J'ai écouté les interviews des membres de votre équipe sur la plateforme Welcometothejungle et celle de Clément, m'a retenu mon attention, car je me suis projeté dans son profil. Préparant un master en informatique et recherchant une entreprise dans laquelle je pourrais m'épanouir, Raise Partner m'a semblé être le cadre de travail idéal. À travers les différentes interviews des développeurs, j'ai compris que c'était le cadre de travail que je recherchais : intégration continue, tests, méthodes agiles... De plus, le fait de développer une solution permettant à des professionnels de pouvoir prendre des meilleures décisions financières serait pour moi un objectif qui me permettrait de donner du sens au poste que j'occuperai.
+
+Je termine actuellement ma troisième année de BUT informatique. Passionné par le développement, mais aussi le DevOps, mon parcours m'a permis d'explorer divers aspects du développement full stack. J'ai notamment conçu des applications web coté front end avec des frameworks comme angular, vue ou react, mais aussi côté back end avec Python, SpringBoot, ExpressJs... Plus récemment, je me suis passionné pour le DevOps et la sécurisation des applications. Suite à plusieurs cours à l'université puis à plusieurs mises en pratique durant mon alternance, j'ai souhaité approfondir le sujet pendant mon temps personnel. J'ai ainsi déployé des applications avec Kubernetes et utilisé différents cloud providers pour diversifier mes connaissances.
+
+Rejoindre votre équipe serait un réel challenge technique stimulant pour moi. Je pourrais apporter mes connaissances sur les langages et technologies comme React, Node, Python... Force de proposition, j'espère pouvoir contribuer activement à l'évolution de ce projet au sein de vos équipes. Je suis de nature sociable, persévérante et curieuse. J'adore découvrir de nouveaux outils et me former sur divers sujets. Je pense être capable de relever ce défi en intégrant vos équipes.
+
+Dans l'attente de l'opportunité de vous détailler davantage ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.

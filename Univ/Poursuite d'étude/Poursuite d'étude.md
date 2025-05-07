@@ -1,11 +1,8 @@
-clean code / bonnes pratiques
-intégration continue de devops evoqué par Jonas
-python c#, node, react
-entraide dans les équipes de developpement
-
+TODO:
+- [ ] Relancer le mardi et mercredi 20 et 21 les 4 entreprise en candidature spontanée si pas de réponse
+- [ ] postuler aux offres de CPE
 ### ALTERNANCES FAUT POSTULER
-
-- [ ] https://www.welcometothejungle.com/fr/companies/predisurge/tech-1?q=ba8ec52ec51276a27c43e789d73b2277&o=22522
+- [ ] https://relyens.csod.com/ux/ats/careersite/13/home/requisition/3035?c=relyens&sq=req3035
 
 ### Entreprise je trouve ca donne envie
 - [ ] https://www.welcometothejungle.com/fr/companies/doxallia/tech-1?q=4a1d4e6f21cfbec0f4a9ca4207eda70b&o=22982v

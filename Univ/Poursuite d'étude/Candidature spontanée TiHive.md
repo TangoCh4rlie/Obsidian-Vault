@@ -1,0 +1,12 @@
+Madame, Monsieur,
+
+Je vous adresse ma candidature spontanée pour un poste de développeur en alternance car
+les missions réalisées par les équipes de votre entreprise m’intéressent sincèrement.
+
+Plusieurs raisons m'ont poussé à postuler chez vous. Le fait de travailler dans une entreprise avec des projets ambitieux et innovants est pour moi une réelle source de motivation. J'ai écouté les interviews de votre équipe sur la plateforme Welcometothejungle et la diversité d'origine et de culture m'a particulièrement attiré. Je pense sincèrement que travailler dans une telle équipe avec un but commun doit être vraiment stimulant. De plus, le challenge technique de vos équipes mêlant innovation et précaution environnementale permettrait de donner du sens au poste que j'occuperai.
+
+Je termine actuellement mon BUT informatique et prépare un master en informatique. Passionné par le développement, mais aussi le DevOps, mon parcours m'a permis d'explorer divers aspects du développement full stack. J'ai notamment conçu des applications web coté front end avec des frameworks comme angular, vue ou react, mais aussi côté back end avec Python, SpringBoot, ExpressJs... Plus récemment, j'ai développe un logiciel en Python pour réaliser un mp3 avec un raspberry pi. Ce projet mêle software et hardware ainsi que beaucoup de documentation sur des nouvelles technologies que je ne connais pas. Une bonne méthodologie me permet d'avancer sur ce projet que je suis en train de terminer.
+
+Rejoindre votre équipe serait un réel challenge technique stimulant pour moi. En effet, travailler sur de telles technologies de pointe me motive réellement. Je pourrais apporter mes connaissances sur l'aspect back end et front end, mais aussi les langages et technologies comme Linux, Python... Force de proposition, j'espère pouvoir contribuer activement à l'évolution de ce projet ambitieux. Je suis de nature sociable, persévérante et rigoureuse. J'adore découvrir de nouveaux outils et me former sur divers sujets. Je pense être capable de relever ce défi en intégrant vos équipes.
+
+Dans l'attente de l'opportunité de vous détailler davantage ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
