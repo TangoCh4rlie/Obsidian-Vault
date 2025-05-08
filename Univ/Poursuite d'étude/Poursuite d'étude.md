@@ -3,6 +3,11 @@ TODO:
 - [ ] postuler aux offres de CPE
 - [ ] postuler aux offres indeed et welcome
 - [ ] checker hellowork
+
+
+
+mieux réussir a atteindre leurs objectifs
+travailler dans une équipe a taille humaine
 ### ALTERNANCES FAUT POSTULER
 - [ ] https://relyens.csod.com/ux/ats/careersite/13/home/requisition/3035?c=relyens&sq=req3035
 - [ ] https://jobs.volvogroup.com/job/Venissieux-Alternance-Bac-%2B45-D%C3%A9velopeur%28euse%29-IoT-Azure-HF-69200/1158264755/?feedId=361555&codes=1-INDEED
