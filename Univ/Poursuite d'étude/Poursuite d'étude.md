@@ -20,3 +20,8 @@ travailler dans une équipe a taille humaine
 - [ ] https://www.welcometothejungle.com/fr/companies/2it-solutions/jobs?q=ba8ec52ec51276a27c43e789d73b2277&o=13807
 - [ ] https://recrute.groupe-casino.fr/fr/annonce/3639141-chef-de-projet-developpeur-en-alternance-fh-42000-saint-etienne
 - [ ] https://www.welcometothejungle.com/fr/companies/boondmanager/bureaux-teletravail-1?q=81ad666ab99e79fc748326a4878d3835&o=7707
+
+
+
+### Candidatures envoyés
+- [ ] Alternance - Développeur/se - Java - Grenoble
