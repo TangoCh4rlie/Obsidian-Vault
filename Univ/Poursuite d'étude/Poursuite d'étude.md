@@ -55,3 +55,5 @@ travailler dans une équipe a taille humaine
 
 
 https://airliquidehr.wd3.myworkdayjobs.com/en-US/AirLiquideExternalCareer/details/Alternant-e---Cyberscurit-Air-Liquide-Industrial-Applications--F-H-_R10066256?q=alternance+d%C3%A9veloppeur
+
+React, Docker, Kubernetes, Ansible, Elixir, Java, TypeScript, JavaScript, Python, Bash, C, React, Android, GitHub, GitLab,  Cloudflare, AWS, PHP, Angular, Vue, Svelte, Symfony
