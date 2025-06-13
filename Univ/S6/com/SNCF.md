@@ -1,8 +1,3 @@
-2025-04-08
-[[univ]]
-
----
-
 Elouan Reymond
 
 1. **Qu’entend-on par « changement » au sein d’une organisation ?** Le changement dans une organisation fait référence à toute modification significative dans les processus, les structures, les technologies ou les comportements au sein de l'entreprise. Cela peut inclure l'adoption de nouvelles technologies, la réorganisation des équipes, ou l'implémentation de nouvelles méthodes de travail. Le but est généralement d'améliorer l'efficacité, de s'adapter à des conditions de marché changeantes, ou de répondre à des besoins stratégiques.
